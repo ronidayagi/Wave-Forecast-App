@@ -12,7 +12,7 @@ async def get_wave_forecast(lat: float, lon: float):
     params = {
         "lat": lat,
         "lng": lon,
-        "params": "waveHeight,waveDirection,wavePeriod",
+        "params": "waveHeight,waveDirection,wavePeriod,waterTemperature",
         "source": "noaa"
     }
     headers = {"Authorization": API_KEY} if API_KEY else {}
