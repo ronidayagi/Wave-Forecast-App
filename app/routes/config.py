@@ -1,5 +1,5 @@
 from fastapi import APIRouter, Request
-from app.scheduler import update_daily_forecast
+from app.scheduler import update_forecast
 
 router = APIRouter()
 
@@ -10,7 +10,7 @@ async def set_place(place1: str, request: Request):
     request.app.state.place = place1
 
     # optionally update forecast immediately
-    request.app.state.forecast = await update_daily_forecast(place1)
+    request.app.state.forecast = await update_forecast(place1)
 
     return {"message": "Place updated", "place": request.app.state.place}
 

@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 from app.routes.forecast import router as forecast_router
 from app.routes.config import router as config_router
-from app.scheduler import start_scheduler, update_daily_forecast
+from app.scheduler import start_scheduler, update_forecast
 from contextlib import asynccontextmanager
 import asyncio
 
@@ -16,7 +16,7 @@ app.state.forecast = None
 async def lifespan(app: FastAPI):
     # Startup code
     print("Fetching initial forecast...")
-    await update_daily_forecast(app.state.place)  # Run initial fetch
+    await update_forecast(app.state.place)  # Run initial fetch
 
     #start_scheduler()  # This one for notifications
     #print("Scheduler started")
