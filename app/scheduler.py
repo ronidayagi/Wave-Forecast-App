@@ -1,19 +1,19 @@
 import asyncio
 import json
 from apscheduler.schedulers.background import BackgroundScheduler
-from app.services.stormglass_service import fetch_forecast  # your function
+from app.services.stormglass_service import get_forecast  # your function
 from app.geocoding import get_lat_lon
 import datetime
 
-place = "Israel, beit yanai"  # default
+#place = "Israel, beit yanai"  # default
 
-async def update_daily_forecast():
+async def update_daily_forecast(place):
 
     lat, lon = get_lat_lon(place)
 
     print(f"Updating forecast for {place}: {datetime.datetime.now()}")
 
-    forecast = await fetch_forecast(lat, lon)
+    forecast = await get_forecast(lat, lon)
 
     # Save forecast somewhere (file, DB, cache) so your API can serve it
     with open("forecast_cache.json", "w") as f:

@@ -9,13 +9,14 @@ app = FastAPI(title="Wave Forecast API")
 app.include_router(forecast_router, prefix="/forecast")
 app.include_router(config_router, prefix="/config")
 
-
+app.state.place = "Israel, beit yanai"
+app.state.forecast = None
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     # Startup code
     print("Fetching initial forecast...")
-    await update_daily_forecast()  # Run initial fetch
+    await update_daily_forecast(app.state.place)  # Run initial fetch
 
     #start_scheduler()  # This one for notifications
     #print("Scheduler started")

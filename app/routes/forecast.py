@@ -1,5 +1,5 @@
 from fastapi import APIRouter, Query, HTTPException
-from app.services.stormglass_service import get_wave_forecast
+from app.services.stormglass_service import get_forecast
 
 router = APIRouter()
 
@@ -7,7 +7,7 @@ router = APIRouter()
 DEFAULT_LAT = 32.3775275
 DEFAULT_LON = 34.8629629
 
-@router.get("/")
+@router.get("/forecast")
 async def forecast(
     lat: float = Query(DEFAULT_LAT, description="Latitude, optional"),
     lon: float = Query(DEFAULT_LON, description="Longitude, optional")
@@ -17,7 +17,7 @@ async def forecast(
     Defaults to your location if none are provided.
     """
     try:
-        data = await get_wave_forecast(lat, lon)
+        data = await get_forecast(lat, lon)
         return {"latitude": lat, "longitude": lon, "forecast": data}
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))

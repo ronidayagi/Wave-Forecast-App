@@ -8,7 +8,7 @@ load_dotenv()
 API_KEY = os.getenv("STORMGLASS_API_KEY")
 BASE_URL = "https://api.stormglass.io/v2/weather/point"
 
-async def get_wave_forecast(lat: float, lon: float):
+async def get_forecast(lat: float, lon: float):
     params = {
         "lat": lat,
         "lng": lon,
@@ -27,7 +27,3 @@ async def get_wave_forecast(lat: float, lon: float):
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Internal error: {str(e)}")
 
-
-async def fetch_forecast(lat, lon):
-    # Your existing code, just replace fixed lat/lon with the parameters
-    return await get_wave_forecast(lat, lon)
