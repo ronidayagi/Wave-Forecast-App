@@ -1,0 +1,22 @@
+{
+    "user": {
+        "name": "Roni",
+        "email": "ronidayagi@gmail.com"
+    },
+    "locations": [
+        {
+            "name": "Beit Yanai",
+            "place": "Israel, beit yanai",
+            "conditions": {
+                "wave_height_min": 0.5,
+                "wave_height_max": 1.5,
+                "wave_direction_min": 250,
+                "wave_direction_max": 340,
+                "check_times": ["06:00", "09:00", "12:00", "15:00"]
+            }
+        }
+    ]
+}
+
+
+

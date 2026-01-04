@@ -20,6 +20,8 @@ async def update_forecast(place):
         json.dump(forecast, f, indent=4)
     print("Forecast updated!")
 
+    return forecast
+
 def start_scheduler():
     scheduler = BackgroundScheduler()
     # Schedule job to run every day at 6am
