@@ -23,3 +23,20 @@ def check_conditions(forecast_data, location_config):
             good_hours.append(hour)
 
     return good_hours
+
+def format_conditions_message(good_hours: list, location_name: str) -> str:
+    if not good_hours:
+        return "No good conditions found."
+
+    message = f"🏄‍♂️ Good Surf Conditions at {location_name}!\n\n"
+    message += f"Found {len(good_hours)} good hours today:\n\n"
+
+    for hour in good_hours:
+        time = datetime.fromisoformat(hour["time"]).strftime("%I:%M %p")
+        wave_height = hour["waveHeight"]["noaa"]
+        wave_direction = hour["waveDirection"]["noaa"]
+
+        message += f"📅 {time}\n  Wave Height: {wave_height}m\n  Wave Direction: {wave_direction}°\n\n"
+
+    message += "Go Surf!🌊"
+    return message

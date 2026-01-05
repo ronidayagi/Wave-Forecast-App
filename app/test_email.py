@@ -1,11 +1,11 @@
 from app.email_notifier import send_email
 
-to_email = "ronygilboa1@gmail.com"
+to_email = "ohad.amselem@gmail.com"
 subject = "Test Email from Surf App"
 body = """
-Hello Rony!
+Hello Ohad!
 
-This is a test email from your surf forecast app.
+This is a test email from Roni's surf forecast app.
 
 If you're reading this, email notifications are working! 🎉
 
