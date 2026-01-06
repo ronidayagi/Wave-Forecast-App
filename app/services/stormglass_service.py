@@ -27,8 +27,13 @@ async def get_forecast(lat: float, lon: float):
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Internal error: {str(e)}")
 
-# DEBUG: Print what we got
-print(f"🔑 DEBUG: API_KEY exists: {API_KEY is not None}")
-print(f"🔑 DEBUG: API_KEY length: {len(API_KEY) if API_KEY else 0}")
-if API_KEY:
-    print(f"🔑 DEBUG: First 5 chars: {API_KEY[:5]}...")
+
+# DEBUG: Print ALL environment variables
+print("=" * 50)
+print("🔍 ALL ENVIRONMENT VARIABLES:")
+for key, value in os.environ.items():
+    if 'KEY' in key or 'API' in key or 'STORM' in key:
+        print(f"  {key} = {value[:10]}..." if len(value) > 10 else f"  {key} = {value}")
+print("=" * 50)
+
+API_KEY = os.getenv("STORMGLASS_API_KEY")
