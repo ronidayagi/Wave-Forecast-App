@@ -27,3 +27,8 @@ async def get_forecast(lat: float, lon: float):
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Internal error: {str(e)}")
 
+# DEBUG: Print what we got
+print(f"🔑 DEBUG: API_KEY exists: {API_KEY is not None}")
+print(f"🔑 DEBUG: API_KEY length: {len(API_KEY) if API_KEY else 0}")
+if API_KEY:
+    print(f"🔑 DEBUG: First 5 chars: {API_KEY[:5]}...")
