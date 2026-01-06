@@ -1,468 +1,108 @@
 {
     "hours": [
         {
-            "time": "2026-01-05T00:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 10.36
-            },
-            "waveDirection": {
-                "noaa": 65.01
-            },
-            "waveHeight": {
-                "noaa": 1.11
-            },
-            "wavePeriod": {
-                "noaa": 4.33
-            }
-        },
-        {
-            "time": "2026-01-05T01:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 10.09
-            },
-            "waveDirection": {
-                "noaa": 64.87
-            },
-            "waveHeight": {
-                "noaa": 1.15
-            },
-            "wavePeriod": {
-                "noaa": 4.41
-            }
-        },
-        {
-            "time": "2026-01-05T02:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 9.81
-            },
-            "waveDirection": {
-                "noaa": 64.73
-            },
-            "waveHeight": {
-                "noaa": 1.18
-            },
-            "wavePeriod": {
-                "noaa": 4.48
-            }
-        },
-        {
-            "time": "2026-01-05T03:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 9.54
-            },
-            "waveDirection": {
-                "noaa": 64.59
-            },
-            "waveHeight": {
-                "noaa": 1.22
-            },
-            "wavePeriod": {
-                "noaa": 4.56
-            }
-        },
-        {
-            "time": "2026-01-05T04:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 9.83
-            },
-            "waveDirection": {
-                "noaa": 66.01
-            },
-            "waveHeight": {
-                "noaa": 1.19
-            },
-            "wavePeriod": {
-                "noaa": 4.54
-            }
-        },
-        {
-            "time": "2026-01-05T05:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 10.13
-            },
-            "waveDirection": {
-                "noaa": 67.44
-            },
-            "waveHeight": {
-                "noaa": 1.15
-            },
-            "wavePeriod": {
-                "noaa": 4.53
-            }
-        },
-        {
-            "time": "2026-01-05T06:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 10.42
-            },
-            "waveDirection": {
-                "noaa": 68.86
-            },
-            "waveHeight": {
-                "noaa": 1.12
-            },
-            "wavePeriod": {
-                "noaa": 4.51
-            }
-        },
-        {
-            "time": "2026-01-05T07:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 12.92
-            },
-            "waveDirection": {
-                "noaa": 72.01
-            },
-            "waveHeight": {
-                "noaa": 1.1
-            },
-            "wavePeriod": {
-                "noaa": 4.44
-            }
-        },
-        {
-            "time": "2026-01-05T08:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 15.43
-            },
-            "waveDirection": {
-                "noaa": 75.15
-            },
-            "waveHeight": {
-                "noaa": 1.07
-            },
-            "wavePeriod": {
-                "noaa": 4.38
-            }
-        },
-        {
-            "time": "2026-01-05T09:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 17.93
-            },
-            "waveDirection": {
-                "noaa": 78.3
-            },
-            "waveHeight": {
-                "noaa": 1.05
-            },
-            "wavePeriod": {
-                "noaa": 4.31
-            }
-        },
-        {
-            "time": "2026-01-05T10:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 18.28
-            },
-            "waveDirection": {
-                "noaa": 80.16
-            },
-            "waveHeight": {
-                "noaa": 1.0
-            },
-            "wavePeriod": {
-                "noaa": 4.2
-            }
-        },
-        {
-            "time": "2026-01-05T11:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 18.63
-            },
-            "waveDirection": {
-                "noaa": 82.01
-            },
-            "waveHeight": {
-                "noaa": 0.94
-            },
-            "wavePeriod": {
-                "noaa": 4.1
-            }
-        },
-        {
-            "time": "2026-01-05T12:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 18.98
-            },
-            "waveDirection": {
-                "noaa": 83.87
-            },
-            "waveHeight": {
-                "noaa": 0.89
-            },
-            "wavePeriod": {
-                "noaa": 3.99
-            }
-        },
-        {
-            "time": "2026-01-05T13:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 16.83
-            },
-            "waveDirection": {
-                "noaa": 57.18
-            },
-            "waveHeight": {
-                "noaa": 0.85
-            },
-            "wavePeriod": {
-                "noaa": 4.46
-            }
-        },
-        {
-            "time": "2026-01-05T14:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 14.68
-            },
-            "waveDirection": {
-                "noaa": 30.49
-            },
-            "waveHeight": {
-                "noaa": 0.82
-            },
-            "wavePeriod": {
-                "noaa": 4.93
-            }
-        },
-        {
-            "time": "2026-01-05T15:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 12.53
-            },
-            "waveDirection": {
-                "noaa": 3.8
-            },
-            "waveHeight": {
-                "noaa": 0.78
-            },
-            "wavePeriod": {
-                "noaa": 5.4
-            }
-        },
-        {
-            "time": "2026-01-05T16:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 12.23
-            },
-            "waveDirection": {
-                "noaa": 3.65
-            },
-            "waveHeight": {
-                "noaa": 0.77
-            },
-            "wavePeriod": {
-                "noaa": 5.41
-            }
-        },
-        {
-            "time": "2026-01-05T17:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 11.94
-            },
-            "waveDirection": {
-                "noaa": 3.49
-            },
-            "waveHeight": {
-                "noaa": 0.75
-            },
-            "wavePeriod": {
-                "noaa": 5.41
-            }
-        },
-        {
-            "time": "2026-01-05T18:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 11.64
-            },
-            "waveDirection": {
-                "noaa": 3.34
-            },
-            "waveHeight": {
-                "noaa": 0.74
-            },
-            "wavePeriod": {
-                "noaa": 5.42
-            }
-        },
-        {
-            "time": "2026-01-05T19:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 11.39
-            },
-            "waveDirection": {
-                "noaa": 3.29
-            },
-            "waveHeight": {
-                "noaa": 0.73
-            },
-            "wavePeriod": {
-                "noaa": 5.39
-            }
-        },
-        {
-            "time": "2026-01-05T20:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 11.14
-            },
-            "waveDirection": {
-                "noaa": 3.23
-            },
-            "waveHeight": {
-                "noaa": 0.73
-            },
-            "wavePeriod": {
-                "noaa": 5.37
-            }
-        },
-        {
-            "time": "2026-01-05T21:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 10.89
-            },
-            "waveDirection": {
-                "noaa": 3.18
-            },
-            "waveHeight": {
-                "noaa": 0.72
-            },
-            "wavePeriod": {
-                "noaa": 5.34
-            }
-        },
-        {
-            "time": "2026-01-05T22:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 10.79
-            },
-            "waveDirection": {
-                "noaa": 334.95
-            },
-            "waveHeight": {
-                "noaa": 0.71
-            },
-            "wavePeriod": {
-                "noaa": 6.34
-            }
-        },
-        {
-            "time": "2026-01-05T23:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 10.68
-            },
-            "waveDirection": {
-                "noaa": 306.73
-            },
-            "waveHeight": {
-                "noaa": 0.69
-            },
-            "wavePeriod": {
-                "noaa": 7.34
-            }
-        },
-        {
             "time": "2026-01-06T00:00:00+00:00",
             "waterTemperature": {
-                "noaa": 10.57
+                "noaa": 10.92
             },
             "waveDirection": {
-                "noaa": 278.5
+                "noaa": 324.11
             },
             "waveHeight": {
-                "noaa": 0.68
+                "noaa": 0.7
             },
             "wavePeriod": {
-                "noaa": 8.34
+                "noaa": 6.52
             }
         },
         {
             "time": "2026-01-06T01:00:00+00:00",
             "waterTemperature": {
-                "noaa": 10.49
+                "noaa": 10.81
             },
             "waveDirection": {
-                "noaa": 278.27
+                "noaa": 309.72
             },
             "waveHeight": {
-                "noaa": 0.65
+                "noaa": 0.68
             },
             "wavePeriod": {
-                "noaa": 8.3
+                "noaa": 7.12
             }
         },
         {
             "time": "2026-01-06T02:00:00+00:00",
             "waterTemperature": {
-                "noaa": 10.41
+                "noaa": 10.7
             },
             "waveDirection": {
-                "noaa": 278.05
+                "noaa": 295.34
             },
             "waveHeight": {
-                "noaa": 0.62
+                "noaa": 0.65
             },
             "wavePeriod": {
-                "noaa": 8.26
+                "noaa": 7.71
             }
         },
         {
             "time": "2026-01-06T03:00:00+00:00",
             "waterTemperature": {
-                "noaa": 10.33
+                "noaa": 10.58
             },
             "waveDirection": {
-                "noaa": 277.82
+                "noaa": 280.95
             },
             "waveHeight": {
-                "noaa": 0.59
+                "noaa": 0.63
             },
             "wavePeriod": {
-                "noaa": 8.22
+                "noaa": 8.31
             }
         },
         {
             "time": "2026-01-06T04:00:00+00:00",
             "waterTemperature": {
-                "noaa": 10.95
+                "noaa": 11.16
             },
             "waveDirection": {
-                "noaa": 277.46
+                "noaa": 280.59
             },
             "waveHeight": {
-                "noaa": 0.57
+                "noaa": 0.6
             },
             "wavePeriod": {
-                "noaa": 8.16
+                "noaa": 8.27
             }
         },
         {
             "time": "2026-01-06T05:00:00+00:00",
             "waterTemperature": {
-                "noaa": 11.57
+                "noaa": 11.73
             },
             "waveDirection": {
-                "noaa": 277.1
+                "noaa": 280.24
             },
             "waveHeight": {
-                "noaa": 0.54
+                "noaa": 0.58
             },
             "wavePeriod": {
-                "noaa": 8.11
+                "noaa": 8.23
             }
         },
         {
             "time": "2026-01-06T06:00:00+00:00",
             "waterTemperature": {
-                "noaa": 12.2
+                "noaa": 12.3
             },
             "waveDirection": {
-                "noaa": 276.74
+                "noaa": 279.88
             },
             "waveHeight": {
-                "noaa": 0.52
+                "noaa": 0.55
             },
             "wavePeriod": {
-                "noaa": 8.05
+                "noaa": 8.19
             }
         },
         {
@@ -471,34 +111,34 @@
                 "noaa": 15.09
             },
             "waveDirection": {
-                "noaa": 276.57
+                "noaa": 278.66
             },
             "waveHeight": {
-                "noaa": 0.51
+                "noaa": 0.53
+            },
+            "wavePeriod": {
+                "noaa": 8.1
+            }
+        },
+        {
+            "time": "2026-01-06T08:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.89
+            },
+            "waveDirection": {
+                "noaa": 277.45
+            },
+            "waveHeight": {
+                "noaa": 0.5
             },
             "wavePeriod": {
                 "noaa": 8.01
             }
         },
         {
-            "time": "2026-01-06T08:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 17.98
-            },
-            "waveDirection": {
-                "noaa": 276.4
-            },
-            "waveHeight": {
-                "noaa": 0.49
-            },
-            "wavePeriod": {
-                "noaa": 7.96
-            }
-        },
-        {
             "time": "2026-01-06T09:00:00+00:00",
             "waterTemperature": {
-                "noaa": 20.87
+                "noaa": 20.68
             },
             "waveDirection": {
                 "noaa": 276.23
@@ -513,7 +153,7 @@
         {
             "time": "2026-01-06T10:00:00+00:00",
             "waterTemperature": {
-                "noaa": 21.42
+                "noaa": 21.26
             },
             "waveDirection": {
                 "noaa": 276.09
@@ -528,7 +168,7 @@
         {
             "time": "2026-01-06T11:00:00+00:00",
             "waterTemperature": {
-                "noaa": 21.97
+                "noaa": 21.83
             },
             "waveDirection": {
                 "noaa": 275.95
@@ -543,7 +183,7 @@
         {
             "time": "2026-01-06T12:00:00+00:00",
             "waterTemperature": {
-                "noaa": 22.52
+                "noaa": 22.41
             },
             "waveDirection": {
                 "noaa": 275.81
@@ -558,262 +198,262 @@
         {
             "time": "2026-01-06T13:00:00+00:00",
             "waterTemperature": {
-                "noaa": 19.68
+                "noaa": 19.75
             },
             "waveDirection": {
-                "noaa": 275.64
+                "noaa": 276.48
             },
             "waveHeight": {
-                "noaa": 0.44
+                "noaa": 0.45
             },
             "wavePeriod": {
-                "noaa": 7.76
+                "noaa": 7.77
             }
         },
         {
             "time": "2026-01-06T14:00:00+00:00",
             "waterTemperature": {
-                "noaa": 16.83
+                "noaa": 17.09
             },
             "waveDirection": {
-                "noaa": 275.47
+                "noaa": 277.15
             },
             "waveHeight": {
-                "noaa": 0.43
+                "noaa": 0.46
             },
             "wavePeriod": {
-                "noaa": 7.71
+                "noaa": 7.73
             }
         },
         {
             "time": "2026-01-06T15:00:00+00:00",
             "waterTemperature": {
-                "noaa": 13.98
+                "noaa": 14.42
             },
             "waveDirection": {
-                "noaa": 275.3
+                "noaa": 277.82
             },
             "waveHeight": {
-                "noaa": 0.42
+                "noaa": 0.46
             },
             "wavePeriod": {
-                "noaa": 7.66
+                "noaa": 7.69
             }
         },
         {
             "time": "2026-01-06T16:00:00+00:00",
             "waterTemperature": {
-                "noaa": 13.48
+                "noaa": 14.03
             },
             "waveDirection": {
-                "noaa": 275.13
+                "noaa": 277.6
             },
             "waveHeight": {
-                "noaa": 0.41
+                "noaa": 0.45
             },
             "wavePeriod": {
-                "noaa": 7.6
+                "noaa": 7.63
             }
         },
         {
             "time": "2026-01-06T17:00:00+00:00",
             "waterTemperature": {
-                "noaa": 12.97
+                "noaa": 13.64
             },
             "waveDirection": {
-                "noaa": 274.97
+                "noaa": 277.37
             },
             "waveHeight": {
-                "noaa": 0.41
+                "noaa": 0.44
             },
             "wavePeriod": {
-                "noaa": 7.55
+                "noaa": 7.57
             }
         },
         {
             "time": "2026-01-06T18:00:00+00:00",
             "waterTemperature": {
-                "noaa": 12.46
+                "noaa": 13.24
             },
             "waveDirection": {
-                "noaa": 274.8
+                "noaa": 277.15
             },
             "waveHeight": {
-                "noaa": 0.4
+                "noaa": 0.43
             },
             "wavePeriod": {
-                "noaa": 7.49
+                "noaa": 7.51
             }
         },
         {
             "time": "2026-01-06T19:00:00+00:00",
             "waterTemperature": {
-                "noaa": 12.37
+                "noaa": 13.02
             },
             "waveDirection": {
-                "noaa": 274.77
+                "noaa": 277.17
             },
             "waveHeight": {
-                "noaa": 0.39
+                "noaa": 0.42
             },
             "wavePeriod": {
-                "noaa": 7.45
+                "noaa": 7.47
             }
         },
         {
             "time": "2026-01-06T20:00:00+00:00",
             "waterTemperature": {
-                "noaa": 12.28
+                "noaa": 12.81
             },
             "waveDirection": {
-                "noaa": 274.73
+                "noaa": 277.19
             },
             "waveHeight": {
-                "noaa": 0.39
+                "noaa": 0.41
             },
             "wavePeriod": {
-                "noaa": 7.41
+                "noaa": 7.43
             }
         },
         {
             "time": "2026-01-06T21:00:00+00:00",
             "waterTemperature": {
-                "noaa": 12.18
+                "noaa": 12.59
             },
             "waveDirection": {
-                "noaa": 274.7
+                "noaa": 277.21
             },
             "waveHeight": {
-                "noaa": 0.38
+                "noaa": 0.4
             },
             "wavePeriod": {
-                "noaa": 7.37
+                "noaa": 7.39
             }
         },
         {
             "time": "2026-01-06T22:00:00+00:00",
             "waterTemperature": {
-                "noaa": 12.04
+                "noaa": 12.23
             },
             "waveDirection": {
-                "noaa": 274.66
+                "noaa": 277.17
             },
             "waveHeight": {
-                "noaa": 0.37
+                "noaa": 0.39
             },
             "wavePeriod": {
-                "noaa": 7.33
+                "noaa": 7.35
             }
         },
         {
             "time": "2026-01-06T23:00:00+00:00",
             "waterTemperature": {
-                "noaa": 11.89
+                "noaa": 11.87
             },
             "waveDirection": {
-                "noaa": 274.61
+                "noaa": 277.13
             },
             "waveHeight": {
-                "noaa": 0.35
+                "noaa": 0.37
             },
             "wavePeriod": {
-                "noaa": 7.29
+                "noaa": 7.32
             }
         },
         {
             "time": "2026-01-07T00:00:00+00:00",
             "waterTemperature": {
-                "noaa": 11.75
+                "noaa": 11.51
             },
             "waveDirection": {
-                "noaa": 274.57
+                "noaa": 277.09
             },
             "waveHeight": {
-                "noaa": 0.34
+                "noaa": 0.36
             },
             "wavePeriod": {
-                "noaa": 7.25
+                "noaa": 7.28
             }
         },
         {
             "time": "2026-01-07T01:00:00+00:00",
             "waterTemperature": {
-                "noaa": 11.48
+                "noaa": 11.4
             },
             "waveDirection": {
-                "noaa": 274.29
+                "noaa": 276.98
             },
             "waveHeight": {
-                "noaa": 0.33
+                "noaa": 0.35
             },
             "wavePeriod": {
-                "noaa": 7.2
+                "noaa": 7.23
             }
         },
         {
             "time": "2026-01-07T02:00:00+00:00",
             "waterTemperature": {
-                "noaa": 11.2
+                "noaa": 11.29
             },
             "waveDirection": {
-                "noaa": 274.0
+                "noaa": 276.87
             },
             "waveHeight": {
-                "noaa": 0.32
+                "noaa": 0.34
             },
             "wavePeriod": {
-                "noaa": 7.14
+                "noaa": 7.18
             }
         },
         {
             "time": "2026-01-07T03:00:00+00:00",
             "waterTemperature": {
-                "noaa": 10.93
+                "noaa": 11.18
             },
             "waveDirection": {
-                "noaa": 273.72
+                "noaa": 276.76
             },
             "waveHeight": {
-                "noaa": 0.31
+                "noaa": 0.33
             },
             "wavePeriod": {
-                "noaa": 7.09
+                "noaa": 7.13
             }
         },
         {
             "time": "2026-01-07T04:00:00+00:00",
             "waterTemperature": {
-                "noaa": 11.68
+                "noaa": 11.94
             },
             "waveDirection": {
-                "noaa": 273.64
+                "noaa": 275.67
             },
             "waveHeight": {
-                "noaa": 0.3
+                "noaa": 0.31
             },
             "wavePeriod": {
-                "noaa": 7.05
+                "noaa": 7.08
             }
         },
         {
             "time": "2026-01-07T05:00:00+00:00",
             "waterTemperature": {
-                "noaa": 12.44
+                "noaa": 12.7
             },
             "waveDirection": {
-                "noaa": 273.57
+                "noaa": 274.58
             },
             "waveHeight": {
-                "noaa": 0.29
+                "noaa": 0.3
             },
             "wavePeriod": {
-                "noaa": 7.02
+                "noaa": 7.03
             }
         },
         {
             "time": "2026-01-07T06:00:00+00:00",
             "waterTemperature": {
-                "noaa": 13.19
+                "noaa": 13.46
             },
             "waveDirection": {
                 "noaa": 273.49
@@ -828,7 +468,7 @@
         {
             "time": "2026-01-07T07:00:00+00:00",
             "waterTemperature": {
-                "noaa": 16.22
+                "noaa": 16.59
             },
             "waveDirection": {
                 "noaa": 273.45
@@ -843,7 +483,7 @@
         {
             "time": "2026-01-07T08:00:00+00:00",
             "waterTemperature": {
-                "noaa": 19.25
+                "noaa": 19.73
             },
             "waveDirection": {
                 "noaa": 273.42
@@ -858,7 +498,7 @@
         {
             "time": "2026-01-07T09:00:00+00:00",
             "waterTemperature": {
-                "noaa": 22.28
+                "noaa": 22.86
             },
             "waveDirection": {
                 "noaa": 273.38
@@ -873,7 +513,7 @@
         {
             "time": "2026-01-07T10:00:00+00:00",
             "waterTemperature": {
-                "noaa": 22.41
+                "noaa": 22.97
             },
             "waveDirection": {
                 "noaa": 273.36
@@ -888,7 +528,7 @@
         {
             "time": "2026-01-07T11:00:00+00:00",
             "waterTemperature": {
-                "noaa": 22.55
+                "noaa": 23.07
             },
             "waveDirection": {
                 "noaa": 273.35
@@ -903,7 +543,7 @@
         {
             "time": "2026-01-07T12:00:00+00:00",
             "waterTemperature": {
-                "noaa": 22.68
+                "noaa": 23.18
             },
             "waveDirection": {
                 "noaa": 273.33
@@ -918,7 +558,7 @@
         {
             "time": "2026-01-07T13:00:00+00:00",
             "waterTemperature": {
-                "noaa": 19.92
+                "noaa": 20.38
             },
             "waveDirection": {
                 "noaa": 289.16
@@ -933,7 +573,7 @@
         {
             "time": "2026-01-07T14:00:00+00:00",
             "waterTemperature": {
-                "noaa": 17.16
+                "noaa": 17.58
             },
             "waveDirection": {
                 "noaa": 305.0
@@ -948,7 +588,7 @@
         {
             "time": "2026-01-07T15:00:00+00:00",
             "waterTemperature": {
-                "noaa": 14.4
+                "noaa": 14.78
             },
             "waveDirection": {
                 "noaa": 320.83
@@ -963,82 +603,82 @@
         {
             "time": "2026-01-07T16:00:00+00:00",
             "waterTemperature": {
-                "noaa": 13.96
+                "noaa": 14.38
             },
             "waveDirection": {
-                "noaa": 336.63
+                "noaa": 335.83
             },
             "waveHeight": {
                 "noaa": 0.24
             },
             "wavePeriod": {
-                "noaa": 4.9
+                "noaa": 4.92
             }
         },
         {
             "time": "2026-01-07T17:00:00+00:00",
             "waterTemperature": {
-                "noaa": 13.52
+                "noaa": 13.99
             },
             "waveDirection": {
-                "noaa": 352.42
+                "noaa": 350.83
             },
             "waveHeight": {
-                "noaa": 0.26
+                "noaa": 0.24
             },
             "wavePeriod": {
-                "noaa": 4.56
+                "noaa": 4.59
             }
         },
         {
             "time": "2026-01-07T18:00:00+00:00",
             "waterTemperature": {
-                "noaa": 13.08
+                "noaa": 13.59
             },
             "waveDirection": {
-                "noaa": 8.22
-            },
-            "waveHeight": {
-                "noaa": 0.27
-            },
-            "wavePeriod": {
-                "noaa": 4.21
-            }
-        },
-        {
-            "time": "2026-01-07T19:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 12.83
-            },
-            "waveDirection": {
-                "noaa": 9.6
-            },
-            "waveHeight": {
-                "noaa": 0.26
-            },
-            "wavePeriod": {
-                "noaa": 4.17
-            }
-        },
-        {
-            "time": "2026-01-07T20:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 12.58
-            },
-            "waveDirection": {
-                "noaa": 10.98
+                "noaa": 5.83
             },
             "waveHeight": {
                 "noaa": 0.25
             },
             "wavePeriod": {
-                "noaa": 4.12
+                "noaa": 4.26
+            }
+        },
+        {
+            "time": "2026-01-07T19:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 13.35
+            },
+            "waveDirection": {
+                "noaa": 8.01
+            },
+            "waveHeight": {
+                "noaa": 0.25
+            },
+            "wavePeriod": {
+                "noaa": 4.2
+            }
+        },
+        {
+            "time": "2026-01-07T20:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 13.1
+            },
+            "waveDirection": {
+                "noaa": 10.18
+            },
+            "waveHeight": {
+                "noaa": 0.24
+            },
+            "wavePeriod": {
+                "noaa": 4.14
             }
         },
         {
             "time": "2026-01-07T21:00:00+00:00",
             "waterTemperature": {
-                "noaa": 12.33
+                "noaa": 12.85
             },
             "waveDirection": {
                 "noaa": 12.36
@@ -1053,442 +693,442 @@
         {
             "time": "2026-01-07T22:00:00+00:00",
             "waterTemperature": {
-                "noaa": 12.12
+                "noaa": 12.71
             },
             "waveDirection": {
-                "noaa": 14.06
-            },
-            "waveHeight": {
-                "noaa": 0.25
-            },
-            "wavePeriod": {
-                "noaa": 3.74
-            }
-        },
-        {
-            "time": "2026-01-07T23:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 11.92
-            },
-            "waveDirection": {
-                "noaa": 15.77
-            },
-            "waveHeight": {
-                "noaa": 0.25
-            },
-            "wavePeriod": {
-                "noaa": 3.4
-            }
-        },
-        {
-            "time": "2026-01-08T00:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 11.72
-            },
-            "waveDirection": {
-                "noaa": 17.47
-            },
-            "waveHeight": {
-                "noaa": 0.26
-            },
-            "wavePeriod": {
-                "noaa": 3.06
-            }
-        },
-        {
-            "time": "2026-01-08T01:00:00+00:00",
-            "waterTemperature": {
                 "noaa": 11.6
             },
-            "waveDirection": {
-                "noaa": 16.76
-            },
             "waveHeight": {
                 "noaa": 0.25
-            },
-            "wavePeriod": {
-                "noaa": 3.08
-            }
-        },
-        {
-            "time": "2026-01-08T02:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 11.48
-            },
-            "waveDirection": {
-                "noaa": 16.04
-            },
-            "waveHeight": {
-                "noaa": 0.24
-            },
-            "wavePeriod": {
-                "noaa": 3.11
-            }
-        },
-        {
-            "time": "2026-01-08T03:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 11.36
-            },
-            "waveDirection": {
-                "noaa": 15.33
-            },
-            "waveHeight": {
-                "noaa": 0.23
-            },
-            "wavePeriod": {
-                "noaa": 3.13
-            }
-        },
-        {
-            "time": "2026-01-08T04:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 12.14
-            },
-            "waveDirection": {
-                "noaa": 31.56
-            },
-            "waveHeight": {
-                "noaa": 0.24
-            },
-            "wavePeriod": {
-                "noaa": 2.75
-            }
-        },
-        {
-            "time": "2026-01-08T05:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 12.92
-            },
-            "waveDirection": {
-                "noaa": 47.78
-            },
-            "waveHeight": {
-                "noaa": 0.25
-            },
-            "wavePeriod": {
-                "noaa": 2.36
-            }
-        },
-        {
-            "time": "2026-01-08T06:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 13.7
-            },
-            "waveDirection": {
-                "noaa": 64.01
-            },
-            "waveHeight": {
-                "noaa": 0.26
-            },
-            "wavePeriod": {
-                "noaa": 1.98
-            }
-        },
-        {
-            "time": "2026-01-08T07:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 16.92
-            },
-            "waveDirection": {
-                "noaa": 34.23
-            },
-            "waveHeight": {
-                "noaa": 0.25
-            },
-            "wavePeriod": {
-                "noaa": 2.53
-            }
-        },
-        {
-            "time": "2026-01-08T08:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 20.14
-            },
-            "waveDirection": {
-                "noaa": 4.46
-            },
-            "waveHeight": {
-                "noaa": 0.24
-            },
-            "wavePeriod": {
-                "noaa": 3.07
-            }
-        },
-        {
-            "time": "2026-01-08T09:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 23.36
-            },
-            "waveDirection": {
-                "noaa": 334.68
-            },
-            "waveHeight": {
-                "noaa": 0.23
-            },
-            "wavePeriod": {
-                "noaa": 3.62
-            }
-        },
-        {
-            "time": "2026-01-08T10:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 23.48
-            },
-            "waveDirection": {
-                "noaa": 313.81
-            },
-            "waveHeight": {
-                "noaa": 0.23
-            },
-            "wavePeriod": {
-                "noaa": 4.66
-            }
-        },
-        {
-            "time": "2026-01-08T11:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 23.59
-            },
-            "waveDirection": {
-                "noaa": 292.93
-            },
-            "waveHeight": {
-                "noaa": 0.22
-            },
-            "wavePeriod": {
-                "noaa": 5.71
-            }
-        },
-        {
-            "time": "2026-01-08T12:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 23.7
-            },
-            "waveDirection": {
-                "noaa": 272.06
-            },
-            "waveHeight": {
-                "noaa": 0.22
-            },
-            "wavePeriod": {
-                "noaa": 6.75
-            }
-        },
-        {
-            "time": "2026-01-08T13:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 21.18
-            },
-            "waveDirection": {
-                "noaa": 324.51
-            },
-            "waveHeight": {
-                "noaa": 0.24
-            },
-            "wavePeriod": {
-                "noaa": 5.26
-            }
-        },
-        {
-            "time": "2026-01-08T14:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 18.66
-            },
-            "waveDirection": {
-                "noaa": 16.97
-            },
-            "waveHeight": {
-                "noaa": 0.27
-            },
-            "wavePeriod": {
-                "noaa": 3.76
-            }
-        },
-        {
-            "time": "2026-01-08T15:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 16.13
-            },
-            "waveDirection": {
-                "noaa": 69.42
-            },
-            "waveHeight": {
-                "noaa": 0.29
-            },
-            "wavePeriod": {
-                "noaa": 2.27
-            }
-        },
-        {
-            "time": "2026-01-08T16:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 15.73
-            },
-            "waveDirection": {
-                "noaa": 40.93
-            },
-            "waveHeight": {
-                "noaa": 0.27
-            },
-            "wavePeriod": {
-                "noaa": 2.72
-            }
-        },
-        {
-            "time": "2026-01-08T17:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 15.34
-            },
-            "waveDirection": {
-                "noaa": 12.43
-            },
-            "waveHeight": {
-                "noaa": 0.25
-            },
-            "wavePeriod": {
-                "noaa": 3.16
-            }
-        },
-        {
-            "time": "2026-01-08T18:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 14.94
-            },
-            "waveDirection": {
-                "noaa": 343.94
-            },
-            "waveHeight": {
-                "noaa": 0.23
-            },
-            "wavePeriod": {
-                "noaa": 3.61
-            }
-        },
-        {
-            "time": "2026-01-08T19:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 14.6
-            },
-            "waveDirection": {
-                "noaa": 320.23
-            },
-            "waveHeight": {
-                "noaa": 0.22
-            },
-            "wavePeriod": {
-                "noaa": 4.66
-            }
-        },
-        {
-            "time": "2026-01-08T20:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 14.27
-            },
-            "waveDirection": {
-                "noaa": 296.53
-            },
-            "waveHeight": {
-                "noaa": 0.21
-            },
-            "wavePeriod": {
-                "noaa": 5.72
-            }
-        },
-        {
-            "time": "2026-01-08T21:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 13.93
-            },
-            "waveDirection": {
-                "noaa": 272.82
-            },
-            "waveHeight": {
-                "noaa": 0.2
-            },
-            "wavePeriod": {
-                "noaa": 6.77
-            }
-        },
-        {
-            "time": "2026-01-08T22:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 13.92
-            },
-            "waveDirection": {
-                "noaa": 257.73
-            },
-            "waveHeight": {
-                "noaa": 0.28
-            },
-            "wavePeriod": {
-                "noaa": 5.91
-            }
-        },
-        {
-            "time": "2026-01-08T23:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 13.9
-            },
-            "waveDirection": {
-                "noaa": 242.63
-            },
-            "waveHeight": {
-                "noaa": 0.35
-            },
-            "wavePeriod": {
-                "noaa": 5.05
-            }
-        },
-        {
-            "time": "2026-01-09T00:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 13.88
-            },
-            "waveDirection": {
-                "noaa": 227.54
-            },
-            "waveHeight": {
-                "noaa": 0.43
-            },
-            "wavePeriod": {
-                "noaa": 4.19
-            }
-        },
-        {
-            "time": "2026-01-09T01:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 13.72
-            },
-            "waveDirection": {
-                "noaa": 223.88
-            },
-            "waveHeight": {
-                "noaa": 0.56
-            },
-            "wavePeriod": {
-                "noaa": 4.13
-            }
-        },
-        {
-            "time": "2026-01-09T02:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 13.55
-            },
-            "waveDirection": {
-                "noaa": 220.22
-            },
-            "waveHeight": {
-                "noaa": 0.68
             },
             "wavePeriod": {
                 "noaa": 4.07
             }
         },
         {
+            "time": "2026-01-07T23:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 12.56
+            },
+            "waveDirection": {
+                "noaa": 10.84
+            },
+            "waveHeight": {
+                "noaa": 0.25
+            },
+            "wavePeriod": {
+                "noaa": 4.05
+            }
+        },
+        {
+            "time": "2026-01-08T00:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 12.41
+            },
+            "waveDirection": {
+                "noaa": 10.08
+            },
+            "waveHeight": {
+                "noaa": 0.26
+            },
+            "wavePeriod": {
+                "noaa": 4.04
+            }
+        },
+        {
+            "time": "2026-01-08T01:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 12.26
+            },
+            "waveDirection": {
+                "noaa": 29.49
+            },
+            "waveHeight": {
+                "noaa": 0.27
+            },
+            "wavePeriod": {
+                "noaa": 3.39
+            }
+        },
+        {
+            "time": "2026-01-08T02:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 12.11
+            },
+            "waveDirection": {
+                "noaa": 48.91
+            },
+            "waveHeight": {
+                "noaa": 0.28
+            },
+            "wavePeriod": {
+                "noaa": 2.74
+            }
+        },
+        {
+            "time": "2026-01-08T03:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 11.97
+            },
+            "waveDirection": {
+                "noaa": 68.32
+            },
+            "waveHeight": {
+                "noaa": 0.29
+            },
+            "wavePeriod": {
+                "noaa": 2.09
+            }
+        },
+        {
+            "time": "2026-01-08T04:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 12.63
+            },
+            "waveDirection": {
+                "noaa": 69.72
+            },
+            "waveHeight": {
+                "noaa": 0.29
+            },
+            "wavePeriod": {
+                "noaa": 2.14
+            }
+        },
+        {
+            "time": "2026-01-08T05:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 13.29
+            },
+            "waveDirection": {
+                "noaa": 71.11
+            },
+            "waveHeight": {
+                "noaa": 0.29
+            },
+            "wavePeriod": {
+                "noaa": 2.19
+            }
+        },
+        {
+            "time": "2026-01-08T06:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 13.95
+            },
+            "waveDirection": {
+                "noaa": 72.51
+            },
+            "waveHeight": {
+                "noaa": 0.29
+            },
+            "wavePeriod": {
+                "noaa": 2.24
+            }
+        },
+        {
+            "time": "2026-01-08T07:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 16.9
+            },
+            "waveDirection": {
+                "noaa": 75.92
+            },
+            "waveHeight": {
+                "noaa": 0.29
+            },
+            "wavePeriod": {
+                "noaa": 2.29
+            }
+        },
+        {
+            "time": "2026-01-08T08:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 19.84
+            },
+            "waveDirection": {
+                "noaa": 79.32
+            },
+            "waveHeight": {
+                "noaa": 0.29
+            },
+            "wavePeriod": {
+                "noaa": 2.33
+            }
+        },
+        {
+            "time": "2026-01-08T09:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 22.79
+            },
+            "waveDirection": {
+                "noaa": 82.73
+            },
+            "waveHeight": {
+                "noaa": 0.29
+            },
+            "wavePeriod": {
+                "noaa": 2.38
+            }
+        },
+        {
+            "time": "2026-01-08T10:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 23.28
+            },
+            "waveDirection": {
+                "noaa": 52.18
+            },
+            "waveHeight": {
+                "noaa": 0.27
+            },
+            "wavePeriod": {
+                "noaa": 2.87
+            }
+        },
+        {
+            "time": "2026-01-08T11:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 23.78
+            },
+            "waveDirection": {
+                "noaa": 21.62
+            },
+            "waveHeight": {
+                "noaa": 0.24
+            },
+            "wavePeriod": {
+                "noaa": 3.36
+            }
+        },
+        {
+            "time": "2026-01-08T12:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 24.27
+            },
+            "waveDirection": {
+                "noaa": 351.07
+            },
+            "waveHeight": {
+                "noaa": 0.22
+            },
+            "wavePeriod": {
+                "noaa": 3.85
+            }
+        },
+        {
+            "time": "2026-01-08T13:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 21.22
+            },
+            "waveDirection": {
+                "noaa": 325.59
+            },
+            "waveHeight": {
+                "noaa": 0.2
+            },
+            "wavePeriod": {
+                "noaa": 4.74
+            }
+        },
+        {
+            "time": "2026-01-08T14:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 18.18
+            },
+            "waveDirection": {
+                "noaa": 300.11
+            },
+            "waveHeight": {
+                "noaa": 0.19
+            },
+            "wavePeriod": {
+                "noaa": 5.62
+            }
+        },
+        {
+            "time": "2026-01-08T15:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 15.13
+            },
+            "waveDirection": {
+                "noaa": 274.63
+            },
+            "waveHeight": {
+                "noaa": 0.17
+            },
+            "wavePeriod": {
+                "noaa": 6.51
+            }
+        },
+        {
+            "time": "2026-01-08T16:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 14.84
+            },
+            "waveDirection": {
+                "noaa": 274.44
+            },
+            "waveHeight": {
+                "noaa": 0.17
+            },
+            "wavePeriod": {
+                "noaa": 6.48
+            }
+        },
+        {
+            "time": "2026-01-08T17:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 14.56
+            },
+            "waveDirection": {
+                "noaa": 274.25
+            },
+            "waveHeight": {
+                "noaa": 0.16
+            },
+            "wavePeriod": {
+                "noaa": 6.46
+            }
+        },
+        {
+            "time": "2026-01-08T18:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 14.27
+            },
+            "waveDirection": {
+                "noaa": 274.06
+            },
+            "waveHeight": {
+                "noaa": 0.16
+            },
+            "wavePeriod": {
+                "noaa": 6.43
+            }
+        },
+        {
+            "time": "2026-01-08T19:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 14.47
+            },
+            "waveDirection": {
+                "noaa": 262.68
+            },
+            "waveHeight": {
+                "noaa": 0.2
+            },
+            "wavePeriod": {
+                "noaa": 5.46
+            }
+        },
+        {
+            "time": "2026-01-08T20:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 14.67
+            },
+            "waveDirection": {
+                "noaa": 251.31
+            },
+            "waveHeight": {
+                "noaa": 0.23
+            },
+            "wavePeriod": {
+                "noaa": 4.48
+            }
+        },
+        {
+            "time": "2026-01-08T21:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 14.87
+            },
+            "waveDirection": {
+                "noaa": 239.93
+            },
+            "waveHeight": {
+                "noaa": 0.27
+            },
+            "wavePeriod": {
+                "noaa": 3.51
+            }
+        },
+        {
+            "time": "2026-01-08T22:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 14.81
+            },
+            "waveDirection": {
+                "noaa": 247.45
+            },
+            "waveHeight": {
+                "noaa": 0.36
+            },
+            "wavePeriod": {
+                "noaa": 3.38
+            }
+        },
+        {
+            "time": "2026-01-08T23:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 14.74
+            },
+            "waveDirection": {
+                "noaa": 254.97
+            },
+            "waveHeight": {
+                "noaa": 0.44
+            },
+            "wavePeriod": {
+                "noaa": 3.26
+            }
+        },
+        {
+            "time": "2026-01-09T00:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 14.67
+            },
+            "waveDirection": {
+                "noaa": 262.49
+            },
+            "waveHeight": {
+                "noaa": 0.53
+            },
+            "wavePeriod": {
+                "noaa": 3.13
+            }
+        },
+        {
+            "time": "2026-01-09T01:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 14.37
+            },
+            "waveDirection": {
+                "noaa": 247.18
+            },
+            "waveHeight": {
+                "noaa": 0.62
+            },
+            "wavePeriod": {
+                "noaa": 3.42
+            }
+        },
+        {
+            "time": "2026-01-09T02:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 14.07
+            },
+            "waveDirection": {
+                "noaa": 231.87
+            },
+            "waveHeight": {
+                "noaa": 0.72
+            },
+            "wavePeriod": {
+                "noaa": 3.72
+            }
+        },
+        {
             "time": "2026-01-09T03:00:00+00:00",
             "waterTemperature": {
-                "noaa": 13.39
+                "noaa": 13.77
             },
             "waveDirection": {
                 "noaa": 216.56
@@ -1503,7 +1143,7 @@
         {
             "time": "2026-01-09T04:00:00+00:00",
             "waterTemperature": {
-                "noaa": 14.46
+                "noaa": 13.73
             },
             "waveDirection": {
                 "noaa": 224.54
@@ -1518,7 +1158,7 @@
         {
             "time": "2026-01-09T05:00:00+00:00",
             "waterTemperature": {
-                "noaa": 15.53
+                "noaa": 13.69
             },
             "waveDirection": {
                 "noaa": 232.51
@@ -1533,7 +1173,7 @@
         {
             "time": "2026-01-09T06:00:00+00:00",
             "waterTemperature": {
-                "noaa": 16.6
+                "noaa": 13.66
             },
             "waveDirection": {
                 "noaa": 240.49
@@ -1548,127 +1188,127 @@
         {
             "time": "2026-01-09T07:00:00+00:00",
             "waterTemperature": {
-                "noaa": 17.77
+                "noaa": 13.72
             },
             "waveDirection": {
-                "noaa": 250.58
-            },
-            "waveHeight": {
-                "noaa": 0.91
-            },
-            "wavePeriod": {
-                "noaa": 4.38
-            }
-        },
-        {
-            "time": "2026-01-09T08:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 18.95
-            },
-            "waveDirection": {
-                "noaa": 260.67
-            },
-            "waveHeight": {
-                "noaa": 0.97
-            },
-            "wavePeriod": {
-                "noaa": 4.5
-            }
-        },
-        {
-            "time": "2026-01-09T09:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 20.13
-            },
-            "waveDirection": {
-                "noaa": 270.76
-            },
-            "waveHeight": {
-                "noaa": 1.04
-            },
-            "wavePeriod": {
-                "noaa": 4.61
-            }
-        },
-        {
-            "time": "2026-01-09T10:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 18.27
-            },
-            "waveDirection": {
-                "noaa": 275.8
+                "noaa": 257.7
             },
             "waveHeight": {
                 "noaa": 1.21
             },
             "wavePeriod": {
-                "noaa": 4.92
+                "noaa": 5.07
+            }
+        },
+        {
+            "time": "2026-01-09T08:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 13.79
+            },
+            "waveDirection": {
+                "noaa": 274.92
+            },
+            "waveHeight": {
+                "noaa": 1.57
+            },
+            "wavePeriod": {
+                "noaa": 5.86
+            }
+        },
+        {
+            "time": "2026-01-09T09:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 13.85
+            },
+            "waveDirection": {
+                "noaa": 292.13
+            },
+            "waveHeight": {
+                "noaa": 1.94
+            },
+            "wavePeriod": {
+                "noaa": 6.66
+            }
+        },
+        {
+            "time": "2026-01-09T10:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 15.02
+            },
+            "waveDirection": {
+                "noaa": 291.87
+            },
+            "waveHeight": {
+                "noaa": 2.04
+            },
+            "wavePeriod": {
+                "noaa": 6.9
             }
         },
         {
             "time": "2026-01-09T11:00:00+00:00",
             "waterTemperature": {
-                "noaa": 16.4
+                "noaa": 16.19
             },
             "waveDirection": {
-                "noaa": 280.84
+                "noaa": 291.6
             },
             "waveHeight": {
-                "noaa": 1.39
+                "noaa": 2.14
             },
             "wavePeriod": {
-                "noaa": 5.23
+                "noaa": 7.13
             }
         },
         {
             "time": "2026-01-09T12:00:00+00:00",
             "waterTemperature": {
-                "noaa": 14.54
+                "noaa": 17.35
             },
             "waveDirection": {
-                "noaa": 285.88
+                "noaa": 291.34
             },
             "waveHeight": {
-                "noaa": 1.56
+                "noaa": 2.24
             },
             "wavePeriod": {
-                "noaa": 5.54
+                "noaa": 7.37
             }
         },
         {
             "time": "2026-01-09T13:00:00+00:00",
             "waterTemperature": {
-                "noaa": 14.26
+                "noaa": 15.9
             },
             "waveDirection": {
-                "noaa": 287.44
+                "noaa": 291.08
             },
             "waveHeight": {
-                "noaa": 1.63
+                "noaa": 2.08
             },
             "wavePeriod": {
-                "noaa": 5.84
+                "noaa": 7.06
             }
         },
         {
             "time": "2026-01-09T14:00:00+00:00",
             "waterTemperature": {
-                "noaa": 13.97
+                "noaa": 14.44
             },
             "waveDirection": {
-                "noaa": 288.99
+                "noaa": 290.81
             },
             "waveHeight": {
-                "noaa": 1.69
+                "noaa": 1.92
             },
             "wavePeriod": {
-                "noaa": 6.15
+                "noaa": 6.76
             }
         },
         {
             "time": "2026-01-09T15:00:00+00:00",
             "waterTemperature": {
-                "noaa": 13.69
+                "noaa": 12.98
             },
             "waveDirection": {
                 "noaa": 290.55
@@ -1683,127 +1323,127 @@
         {
             "time": "2026-01-09T16:00:00+00:00",
             "waterTemperature": {
-                "noaa": 13.16
+                "noaa": 12.74
             },
             "waveDirection": {
-                "noaa": 290.08
+                "noaa": 289.35
             },
             "waveHeight": {
-                "noaa": 1.82
+                "noaa": 2.24
             },
             "wavePeriod": {
-                "noaa": 6.55
+                "noaa": 7.24
             }
         },
         {
             "time": "2026-01-09T17:00:00+00:00",
             "waterTemperature": {
-                "noaa": 12.63
+                "noaa": 12.49
             },
             "waveDirection": {
-                "noaa": 289.61
+                "noaa": 288.16
             },
             "waveHeight": {
-                "noaa": 1.88
+                "noaa": 2.71
             },
             "wavePeriod": {
-                "noaa": 6.64
+                "noaa": 8.02
             }
         },
         {
             "time": "2026-01-09T18:00:00+00:00",
             "waterTemperature": {
-                "noaa": 12.11
+                "noaa": 12.24
             },
             "waveDirection": {
-                "noaa": 289.14
+                "noaa": 286.96
             },
             "waveHeight": {
-                "noaa": 1.94
+                "noaa": 3.19
             },
             "wavePeriod": {
-                "noaa": 6.74
+                "noaa": 8.81
             }
         },
         {
             "time": "2026-01-09T19:00:00+00:00",
             "waterTemperature": {
-                "noaa": 12.11
+                "noaa": 12.1
             },
             "waveDirection": {
-                "noaa": 289.18
+                "noaa": 286.48
             },
             "waveHeight": {
-                "noaa": 2.14
+                "noaa": 3.35
             },
             "wavePeriod": {
-                "noaa": 7.12
+                "noaa": 8.99
             }
         },
         {
             "time": "2026-01-09T20:00:00+00:00",
             "waterTemperature": {
-                "noaa": 12.12
+                "noaa": 11.96
             },
             "waveDirection": {
-                "noaa": 289.23
+                "noaa": 286.01
             },
             "waveHeight": {
-                "noaa": 2.33
+                "noaa": 3.52
             },
             "wavePeriod": {
-                "noaa": 7.51
+                "noaa": 9.17
             }
         },
         {
             "time": "2026-01-09T21:00:00+00:00",
             "waterTemperature": {
-                "noaa": 12.12
+                "noaa": 11.81
             },
             "waveDirection": {
-                "noaa": 289.27
+                "noaa": 285.53
             },
             "waveHeight": {
-                "noaa": 2.53
+                "noaa": 3.68
             },
             "wavePeriod": {
-                "noaa": 7.89
+                "noaa": 9.35
             }
         },
         {
             "time": "2026-01-09T22:00:00+00:00",
             "waterTemperature": {
-                "noaa": 11.71
+                "noaa": 11.8
             },
             "waveDirection": {
-                "noaa": 288.69
+                "noaa": 286.2
             },
             "waveHeight": {
-                "noaa": 2.64
+                "noaa": 3.41
             },
             "wavePeriod": {
-                "noaa": 8.12
+                "noaa": 9.09
             }
         },
         {
             "time": "2026-01-09T23:00:00+00:00",
             "waterTemperature": {
-                "noaa": 11.31
+                "noaa": 11.8
             },
             "waveDirection": {
-                "noaa": 288.12
+                "noaa": 286.87
             },
             "waveHeight": {
-                "noaa": 2.76
+                "noaa": 3.14
             },
             "wavePeriod": {
-                "noaa": 8.34
+                "noaa": 8.83
             }
         },
         {
             "time": "2026-01-10T00:00:00+00:00",
             "waterTemperature": {
-                "noaa": 10.91
+                "noaa": 11.79
             },
             "waveDirection": {
                 "noaa": 287.54
@@ -1818,397 +1458,397 @@
         {
             "time": "2026-01-10T01:00:00+00:00",
             "waterTemperature": {
-                "noaa": 11.07
+                "noaa": 11.52
             },
             "waveDirection": {
-                "noaa": 287.21
-            },
-            "waveHeight": {
-                "noaa": 2.96
-            },
-            "wavePeriod": {
-                "noaa": 8.74
-            }
-        },
-        {
-            "time": "2026-01-10T02:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 11.23
-            },
-            "waveDirection": {
-                "noaa": 286.87
-            },
-            "waveHeight": {
-                "noaa": 3.06
-            },
-            "wavePeriod": {
-                "noaa": 8.9
-            }
-        },
-        {
-            "time": "2026-01-10T03:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 11.39
-            },
-            "waveDirection": {
-                "noaa": 286.54
-            },
-            "waveHeight": {
-                "noaa": 3.15
-            },
-            "wavePeriod": {
-                "noaa": 9.07
-            }
-        },
-        {
-            "time": "2026-01-10T04:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 11.71
-            },
-            "waveDirection": {
-                "noaa": 286.33
-            },
-            "waveHeight": {
-                "noaa": 3.18
-            },
-            "wavePeriod": {
-                "noaa": 9.25
-            }
-        },
-        {
-            "time": "2026-01-10T05:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 12.03
-            },
-            "waveDirection": {
-                "noaa": 286.13
-            },
-            "waveHeight": {
-                "noaa": 3.22
-            },
-            "wavePeriod": {
-                "noaa": 9.42
-            }
-        },
-        {
-            "time": "2026-01-10T06:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 12.36
-            },
-            "waveDirection": {
-                "noaa": 285.92
-            },
-            "waveHeight": {
-                "noaa": 3.25
-            },
-            "wavePeriod": {
-                "noaa": 9.6
-            }
-        },
-        {
-            "time": "2026-01-10T07:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 13.02
-            },
-            "waveDirection": {
-                "noaa": 285.45
+                "noaa": 287.1
             },
             "waveHeight": {
                 "noaa": 3.2
-            },
-            "wavePeriod": {
-                "noaa": 9.66
-            }
-        },
-        {
-            "time": "2026-01-10T08:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 13.69
-            },
-            "waveDirection": {
-                "noaa": 284.97
-            },
-            "waveHeight": {
-                "noaa": 3.16
-            },
-            "wavePeriod": {
-                "noaa": 9.73
-            }
-        },
-        {
-            "time": "2026-01-10T09:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 14.35
-            },
-            "waveDirection": {
-                "noaa": 284.5
-            },
-            "waveHeight": {
-                "noaa": 3.11
-            },
-            "wavePeriod": {
-                "noaa": 9.79
-            }
-        },
-        {
-            "time": "2026-01-10T10:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 15.34
-            },
-            "waveDirection": {
-                "noaa": 283.83
-            },
-            "waveHeight": {
-                "noaa": 3.0
-            },
-            "wavePeriod": {
-                "noaa": 9.8
-            }
-        },
-        {
-            "time": "2026-01-10T11:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 16.34
-            },
-            "waveDirection": {
-                "noaa": 283.16
-            },
-            "waveHeight": {
-                "noaa": 2.9
-            },
-            "wavePeriod": {
-                "noaa": 9.82
-            }
-        },
-        {
-            "time": "2026-01-10T12:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 17.33
-            },
-            "waveDirection": {
-                "noaa": 282.49
-            },
-            "waveHeight": {
-                "noaa": 2.79
-            },
-            "wavePeriod": {
-                "noaa": 9.83
-            }
-        },
-        {
-            "time": "2026-01-10T13:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 15.33
-            },
-            "waveDirection": {
-                "noaa": 282.02
-            },
-            "waveHeight": {
-                "noaa": 2.68
-            },
-            "wavePeriod": {
-                "noaa": 9.8
-            }
-        },
-        {
-            "time": "2026-01-10T14:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 13.33
-            },
-            "waveDirection": {
-                "noaa": 281.56
-            },
-            "waveHeight": {
-                "noaa": 2.58
-            },
-            "wavePeriod": {
-                "noaa": 9.78
-            }
-        },
-        {
-            "time": "2026-01-10T15:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 11.32
-            },
-            "waveDirection": {
-                "noaa": 281.09
-            },
-            "waveHeight": {
-                "noaa": 2.47
-            },
-            "wavePeriod": {
-                "noaa": 9.75
-            }
-        },
-        {
-            "time": "2026-01-10T16:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 10.95
-            },
-            "waveDirection": {
-                "noaa": 280.82
-            },
-            "waveHeight": {
-                "noaa": 2.38
-            },
-            "wavePeriod": {
-                "noaa": 9.68
-            }
-        },
-        {
-            "time": "2026-01-10T17:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 10.58
-            },
-            "waveDirection": {
-                "noaa": 280.54
-            },
-            "waveHeight": {
-                "noaa": 2.28
-            },
-            "wavePeriod": {
-                "noaa": 9.62
-            }
-        },
-        {
-            "time": "2026-01-10T18:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 10.21
-            },
-            "waveDirection": {
-                "noaa": 280.27
-            },
-            "waveHeight": {
-                "noaa": 2.19
-            },
-            "wavePeriod": {
-                "noaa": 9.55
-            }
-        },
-        {
-            "time": "2026-01-10T19:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 10.4
-            },
-            "waveDirection": {
-                "noaa": 280.82
-            },
-            "waveHeight": {
-                "noaa": 2.11
-            },
-            "wavePeriod": {
-                "noaa": 9.46
-            }
-        },
-        {
-            "time": "2026-01-10T20:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 10.6
-            },
-            "waveDirection": {
-                "noaa": 281.38
-            },
-            "waveHeight": {
-                "noaa": 2.02
-            },
-            "wavePeriod": {
-                "noaa": 9.36
-            }
-        },
-        {
-            "time": "2026-01-10T21:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 10.79
-            },
-            "waveDirection": {
-                "noaa": 281.93
-            },
-            "waveHeight": {
-                "noaa": 1.94
-            },
-            "wavePeriod": {
-                "noaa": 9.27
-            }
-        },
-        {
-            "time": "2026-01-10T22:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 10.96
-            },
-            "waveDirection": {
-                "noaa": 281.03
-            },
-            "waveHeight": {
-                "noaa": 1.86
-            },
-            "wavePeriod": {
-                "noaa": 9.24
-            }
-        },
-        {
-            "time": "2026-01-10T23:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 11.13
-            },
-            "waveDirection": {
-                "noaa": 280.14
-            },
-            "waveHeight": {
-                "noaa": 1.79
-            },
-            "wavePeriod": {
-                "noaa": 9.2
-            }
-        },
-        {
-            "time": "2026-01-11T00:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 11.3
-            },
-            "waveDirection": {
-                "noaa": 279.24
-            },
-            "waveHeight": {
-                "noaa": 1.71
             },
             "wavePeriod": {
                 "noaa": 9.17
             }
         },
         {
-            "time": "2026-01-11T01:00:00+00:00",
+            "time": "2026-01-10T02:00:00+00:00",
             "waterTemperature": {
-                "noaa": 10.54
+                "noaa": 11.25
             },
             "waveDirection": {
-                "noaa": 278.35
+                "noaa": 286.67
             },
             "waveHeight": {
-                "noaa": 1.64
+                "noaa": 3.53
             },
             "wavePeriod": {
-                "noaa": 9.16
+                "noaa": 9.78
+            }
+        },
+        {
+            "time": "2026-01-10T03:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 10.99
+            },
+            "waveDirection": {
+                "noaa": 286.23
+            },
+            "waveHeight": {
+                "noaa": 3.86
+            },
+            "wavePeriod": {
+                "noaa": 10.38
+            }
+        },
+        {
+            "time": "2026-01-10T04:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 11.52
+            },
+            "waveDirection": {
+                "noaa": 285.95
+            },
+            "waveHeight": {
+                "noaa": 3.75
+            },
+            "wavePeriod": {
+                "noaa": 10.41
+            }
+        },
+        {
+            "time": "2026-01-10T05:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 12.05
+            },
+            "waveDirection": {
+                "noaa": 285.68
+            },
+            "waveHeight": {
+                "noaa": 3.65
+            },
+            "wavePeriod": {
+                "noaa": 10.43
+            }
+        },
+        {
+            "time": "2026-01-10T06:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 12.59
+            },
+            "waveDirection": {
+                "noaa": 285.4
+            },
+            "waveHeight": {
+                "noaa": 3.54
+            },
+            "wavePeriod": {
+                "noaa": 10.46
+            }
+        },
+        {
+            "time": "2026-01-10T07:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 14.63
+            },
+            "waveDirection": {
+                "noaa": 284.81
+            },
+            "waveHeight": {
+                "noaa": 3.41
+            },
+            "wavePeriod": {
+                "noaa": 10.46
+            }
+        },
+        {
+            "time": "2026-01-10T08:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 16.68
+            },
+            "waveDirection": {
+                "noaa": 284.21
+            },
+            "waveHeight": {
+                "noaa": 3.29
+            },
+            "wavePeriod": {
+                "noaa": 10.45
+            }
+        },
+        {
+            "time": "2026-01-10T09:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 18.72
+            },
+            "waveDirection": {
+                "noaa": 283.62
+            },
+            "waveHeight": {
+                "noaa": 3.16
+            },
+            "wavePeriod": {
+                "noaa": 10.45
+            }
+        },
+        {
+            "time": "2026-01-10T10:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 18.67
+            },
+            "waveDirection": {
+                "noaa": 282.94
+            },
+            "waveHeight": {
+                "noaa": 3.03
+            },
+            "wavePeriod": {
+                "noaa": 10.42
+            }
+        },
+        {
+            "time": "2026-01-10T11:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 18.61
+            },
+            "waveDirection": {
+                "noaa": 282.25
+            },
+            "waveHeight": {
+                "noaa": 2.91
+            },
+            "wavePeriod": {
+                "noaa": 10.38
+            }
+        },
+        {
+            "time": "2026-01-10T12:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 18.55
+            },
+            "waveDirection": {
+                "noaa": 281.57
+            },
+            "waveHeight": {
+                "noaa": 2.78
+            },
+            "wavePeriod": {
+                "noaa": 10.35
+            }
+        },
+        {
+            "time": "2026-01-10T13:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 16.93
+            },
+            "waveDirection": {
+                "noaa": 280.66
+            },
+            "waveHeight": {
+                "noaa": 2.67
+            },
+            "wavePeriod": {
+                "noaa": 10.3
+            }
+        },
+        {
+            "time": "2026-01-10T14:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 15.3
+            },
+            "waveDirection": {
+                "noaa": 279.75
+            },
+            "waveHeight": {
+                "noaa": 2.57
+            },
+            "wavePeriod": {
+                "noaa": 10.26
+            }
+        },
+        {
+            "time": "2026-01-10T15:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 13.67
+            },
+            "waveDirection": {
+                "noaa": 278.84
+            },
+            "waveHeight": {
+                "noaa": 2.46
+            },
+            "wavePeriod": {
+                "noaa": 10.21
+            }
+        },
+        {
+            "time": "2026-01-10T16:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 13.61
+            },
+            "waveDirection": {
+                "noaa": 278.41
+            },
+            "waveHeight": {
+                "noaa": 2.37
+            },
+            "wavePeriod": {
+                "noaa": 10.2
+            }
+        },
+        {
+            "time": "2026-01-10T17:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 13.55
+            },
+            "waveDirection": {
+                "noaa": 277.97
+            },
+            "waveHeight": {
+                "noaa": 2.29
+            },
+            "wavePeriod": {
+                "noaa": 10.19
+            }
+        },
+        {
+            "time": "2026-01-10T18:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 13.49
+            },
+            "waveDirection": {
+                "noaa": 277.54
+            },
+            "waveHeight": {
+                "noaa": 2.2
+            },
+            "wavePeriod": {
+                "noaa": 10.18
+            }
+        },
+        {
+            "time": "2026-01-10T19:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 12.91
+            },
+            "waveDirection": {
+                "noaa": 277.53
+            },
+            "waveHeight": {
+                "noaa": 2.14
+            },
+            "wavePeriod": {
+                "noaa": 10.14
+            }
+        },
+        {
+            "time": "2026-01-10T20:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 12.33
+            },
+            "waveDirection": {
+                "noaa": 277.53
+            },
+            "waveHeight": {
+                "noaa": 2.07
+            },
+            "wavePeriod": {
+                "noaa": 10.11
+            }
+        },
+        {
+            "time": "2026-01-10T21:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 11.74
+            },
+            "waveDirection": {
+                "noaa": 277.52
+            },
+            "waveHeight": {
+                "noaa": 2.01
+            },
+            "wavePeriod": {
+                "noaa": 10.07
+            }
+        },
+        {
+            "time": "2026-01-10T22:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 11.74
+            },
+            "waveDirection": {
+                "noaa": 277.44
+            },
+            "waveHeight": {
+                "noaa": 1.97
+            },
+            "wavePeriod": {
+                "noaa": 10.02
+            }
+        },
+        {
+            "time": "2026-01-10T23:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 11.73
+            },
+            "waveDirection": {
+                "noaa": 277.35
+            },
+            "waveHeight": {
+                "noaa": 1.92
+            },
+            "wavePeriod": {
+                "noaa": 9.96
+            }
+        },
+        {
+            "time": "2026-01-11T00:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 11.72
+            },
+            "waveDirection": {
+                "noaa": 277.27
+            },
+            "waveHeight": {
+                "noaa": 1.88
+            },
+            "wavePeriod": {
+                "noaa": 9.91
+            }
+        },
+        {
+            "time": "2026-01-11T01:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 11.61
+            },
+            "waveDirection": {
+                "noaa": 277.04
+            },
+            "waveHeight": {
+                "noaa": 1.76
+            },
+            "wavePeriod": {
+                "noaa": 9.66
             }
         },
         {
             "time": "2026-01-11T02:00:00+00:00",
             "waterTemperature": {
-                "noaa": 9.78
+                "noaa": 11.49
             },
             "waveDirection": {
-                "noaa": 277.46
+                "noaa": 276.8
             },
             "waveHeight": {
-                "noaa": 1.58
+                "noaa": 1.63
             },
             "wavePeriod": {
-                "noaa": 9.16
+                "noaa": 9.4
             }
         },
         {
             "time": "2026-01-11T03:00:00+00:00",
             "waterTemperature": {
-                "noaa": 9.02
+                "noaa": 11.38
             },
             "waveDirection": {
                 "noaa": 276.57
@@ -2223,7 +1863,7 @@
         {
             "time": "2026-01-11T04:00:00+00:00",
             "waterTemperature": {
-                "noaa": 10.05
+                "noaa": 12.0
             },
             "waveDirection": {
                 "noaa": 276.26
@@ -2238,7 +1878,7 @@
         {
             "time": "2026-01-11T05:00:00+00:00",
             "waterTemperature": {
-                "noaa": 11.07
+                "noaa": 12.63
             },
             "waveDirection": {
                 "noaa": 275.94
@@ -2253,7 +1893,7 @@
         {
             "time": "2026-01-11T06:00:00+00:00",
             "waterTemperature": {
-                "noaa": 12.1
+                "noaa": 13.26
             },
             "waveDirection": {
                 "noaa": 275.63
@@ -2268,7 +1908,7 @@
         {
             "time": "2026-01-11T07:00:00+00:00",
             "waterTemperature": {
-                "noaa": 14.63
+                "noaa": 14.95
             },
             "waveDirection": {
                 "noaa": 275.57
@@ -2283,7 +1923,7 @@
         {
             "time": "2026-01-11T08:00:00+00:00",
             "waterTemperature": {
-                "noaa": 17.16
+                "noaa": 16.64
             },
             "waveDirection": {
                 "noaa": 275.51
@@ -2298,7 +1938,7 @@
         {
             "time": "2026-01-11T09:00:00+00:00",
             "waterTemperature": {
-                "noaa": 19.7
+                "noaa": 18.33
             },
             "waveDirection": {
                 "noaa": 275.45
@@ -2313,352 +1953,352 @@
         {
             "time": "2026-01-11T10:00:00+00:00",
             "waterTemperature": {
-                "noaa": 19.47
+                "noaa": 18.75
             },
             "waveDirection": {
-                "noaa": 275.61
+                "noaa": 277.17
             },
             "waveHeight": {
-                "noaa": 1.34
+                "noaa": 1.49
             },
             "wavePeriod": {
-                "noaa": 8.78
+                "noaa": 9.07
             }
         },
         {
             "time": "2026-01-11T11:00:00+00:00",
             "waterTemperature": {
-                "noaa": 19.25
+                "noaa": 19.16
             },
             "waveDirection": {
-                "noaa": 275.78
+                "noaa": 278.9
             },
             "waveHeight": {
-                "noaa": 1.34
+                "noaa": 1.63
             },
             "wavePeriod": {
-                "noaa": 8.68
+                "noaa": 9.25
             }
         },
         {
             "time": "2026-01-11T12:00:00+00:00",
             "waterTemperature": {
-                "noaa": 19.02
+                "noaa": 19.58
             },
             "waveDirection": {
-                "noaa": 275.94
+                "noaa": 280.62
             },
             "waveHeight": {
-                "noaa": 1.34
+                "noaa": 1.78
             },
             "wavePeriod": {
-                "noaa": 8.58
+                "noaa": 9.44
             }
         },
         {
             "time": "2026-01-11T13:00:00+00:00",
             "waterTemperature": {
-                "noaa": 16.95
+                "noaa": 17.46
             },
             "waveDirection": {
-                "noaa": 277.14
+                "noaa": 280.99
             },
             "waveHeight": {
-                "noaa": 1.35
+                "noaa": 1.78
             },
             "wavePeriod": {
-                "noaa": 8.36
+                "noaa": 9.37
             }
         },
         {
             "time": "2026-01-11T14:00:00+00:00",
             "waterTemperature": {
-                "noaa": 14.89
+                "noaa": 15.34
             },
             "waveDirection": {
-                "noaa": 278.34
+                "noaa": 281.36
             },
             "waveHeight": {
-                "noaa": 1.35
+                "noaa": 1.77
             },
             "wavePeriod": {
-                "noaa": 8.15
+                "noaa": 9.31
             }
         },
         {
             "time": "2026-01-11T15:00:00+00:00",
             "waterTemperature": {
-                "noaa": 12.82
+                "noaa": 13.21
             },
             "waveDirection": {
-                "noaa": 279.54
+                "noaa": 281.73
             },
             "waveHeight": {
-                "noaa": 1.36
+                "noaa": 1.77
             },
             "wavePeriod": {
-                "noaa": 7.93
+                "noaa": 9.24
             }
         },
         {
             "time": "2026-01-11T16:00:00+00:00",
             "waterTemperature": {
-                "noaa": 12.51
+                "noaa": 12.83
             },
             "waveDirection": {
-                "noaa": 279.37
+                "noaa": 281.99
             },
             "waveHeight": {
-                "noaa": 1.39
+                "noaa": 1.77
             },
             "wavePeriod": {
-                "noaa": 7.89
+                "noaa": 9.2
             }
         },
         {
             "time": "2026-01-11T17:00:00+00:00",
             "waterTemperature": {
-                "noaa": 12.19
+                "noaa": 12.45
             },
             "waveDirection": {
-                "noaa": 279.19
+                "noaa": 282.25
             },
             "waveHeight": {
-                "noaa": 1.43
+                "noaa": 1.76
             },
             "wavePeriod": {
-                "noaa": 7.85
+                "noaa": 9.15
             }
         },
         {
             "time": "2026-01-11T18:00:00+00:00",
             "waterTemperature": {
-                "noaa": 11.88
+                "noaa": 12.07
             },
             "waveDirection": {
-                "noaa": 279.02
+                "noaa": 282.51
             },
             "waveHeight": {
-                "noaa": 1.46
+                "noaa": 1.76
             },
             "wavePeriod": {
-                "noaa": 7.81
+                "noaa": 9.11
             }
         },
         {
             "time": "2026-01-11T19:00:00+00:00",
             "waterTemperature": {
-                "noaa": 11.71
+                "noaa": 11.68
             },
             "waveDirection": {
-                "noaa": 280.48
+                "noaa": 282.79
             },
             "waveHeight": {
-                "noaa": 1.54
+                "noaa": 1.76
             },
             "wavePeriod": {
-                "noaa": 8.05
+                "noaa": 9.07
             }
         },
         {
             "time": "2026-01-11T20:00:00+00:00",
             "waterTemperature": {
-                "noaa": 11.55
+                "noaa": 11.29
             },
             "waveDirection": {
-                "noaa": 281.95
+                "noaa": 283.08
             },
             "waveHeight": {
-                "noaa": 1.61
+                "noaa": 1.75
             },
             "wavePeriod": {
-                "noaa": 8.3
+                "noaa": 9.04
             }
         },
         {
             "time": "2026-01-11T21:00:00+00:00",
             "waterTemperature": {
-                "noaa": 11.38
+                "noaa": 10.9
             },
             "waveDirection": {
-                "noaa": 283.41
+                "noaa": 283.36
             },
             "waveHeight": {
-                "noaa": 1.69
-            },
-            "wavePeriod": {
-                "noaa": 8.54
-            }
-        },
-        {
-            "time": "2026-01-11T22:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 11.78
-            },
-            "waveDirection": {
-                "noaa": 284.28
-            },
-            "waveHeight": {
-                "noaa": 1.88
-            },
-            "wavePeriod": {
-                "noaa": 8.66
-            }
-        },
-        {
-            "time": "2026-01-11T23:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 12.18
-            },
-            "waveDirection": {
-                "noaa": 285.15
-            },
-            "waveHeight": {
-                "noaa": 2.06
-            },
-            "wavePeriod": {
-                "noaa": 8.79
-            }
-        },
-        {
-            "time": "2026-01-12T00:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 12.58
-            },
-            "waveDirection": {
-                "noaa": 286.02
-            },
-            "waveHeight": {
-                "noaa": 2.25
-            },
-            "wavePeriod": {
-                "noaa": 8.91
-            }
-        },
-        {
-            "time": "2026-01-12T01:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 12.67
-            },
-            "waveDirection": {
-                "noaa": 284.69
-            },
-            "waveHeight": {
-                "noaa": 2.6
+                "noaa": 1.75
             },
             "wavePeriod": {
                 "noaa": 9.0
             }
         },
         {
-            "time": "2026-01-12T02:00:00+00:00",
+            "time": "2026-01-11T22:00:00+00:00",
             "waterTemperature": {
-                "noaa": 12.76
+                "noaa": 10.6
             },
             "waveDirection": {
-                "noaa": 283.37
+                "noaa": 283.53
             },
             "waveHeight": {
-                "noaa": 2.96
+                "noaa": 1.77
+            },
+            "wavePeriod": {
+                "noaa": 8.99
+            }
+        },
+        {
+            "time": "2026-01-11T23:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 10.3
+            },
+            "waveDirection": {
+                "noaa": 283.69
+            },
+            "waveHeight": {
+                "noaa": 1.78
+            },
+            "wavePeriod": {
+                "noaa": 8.99
+            }
+        },
+        {
+            "time": "2026-01-12T00:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 9.99
+            },
+            "waveDirection": {
+                "noaa": 283.86
+            },
+            "waveHeight": {
+                "noaa": 1.8
+            },
+            "wavePeriod": {
+                "noaa": 8.98
+            }
+        },
+        {
+            "time": "2026-01-12T01:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 10.13
+            },
+            "waveDirection": {
+                "noaa": 283.94
+            },
+            "waveHeight": {
+                "noaa": 1.85
+            },
+            "wavePeriod": {
+                "noaa": 9.01
+            }
+        },
+        {
+            "time": "2026-01-12T02:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 10.27
+            },
+            "waveDirection": {
+                "noaa": 284.02
+            },
+            "waveHeight": {
+                "noaa": 1.89
+            },
+            "wavePeriod": {
+                "noaa": 9.03
+            }
+        },
+        {
+            "time": "2026-01-12T03:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 10.41
+            },
+            "waveDirection": {
+                "noaa": 284.1
+            },
+            "waveHeight": {
+                "noaa": 1.94
+            },
+            "wavePeriod": {
+                "noaa": 9.06
+            }
+        },
+        {
+            "time": "2026-01-12T04:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 11.19
+            },
+            "waveDirection": {
+                "noaa": 284.28
+            },
+            "waveHeight": {
+                "noaa": 2.02
             },
             "wavePeriod": {
                 "noaa": 9.09
             }
         },
         {
-            "time": "2026-01-12T03:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 12.85
-            },
-            "waveDirection": {
-                "noaa": 282.04
-            },
-            "waveHeight": {
-                "noaa": 3.31
-            },
-            "wavePeriod": {
-                "noaa": 9.18
-            }
-        },
-        {
-            "time": "2026-01-12T04:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 12.27
-            },
-            "waveDirection": {
-                "noaa": 281.91
-            },
-            "waveHeight": {
-                "noaa": 3.54
-            },
-            "wavePeriod": {
-                "noaa": 9.4
-            }
-        },
-        {
             "time": "2026-01-12T05:00:00+00:00",
             "waterTemperature": {
-                "noaa": 11.69
+                "noaa": 11.96
             },
             "waveDirection": {
-                "noaa": 281.78
+                "noaa": 284.46
             },
             "waveHeight": {
-                "noaa": 3.78
+                "noaa": 2.09
             },
             "wavePeriod": {
-                "noaa": 9.61
+                "noaa": 9.13
             }
         },
         {
             "time": "2026-01-12T06:00:00+00:00",
             "waterTemperature": {
-                "noaa": 11.12
+                "noaa": 12.74
             },
             "waveDirection": {
-                "noaa": 281.65
+                "noaa": 284.64
             },
             "waveHeight": {
-                "noaa": 4.01
+                "noaa": 2.17
             },
             "wavePeriod": {
-                "noaa": 9.83
+                "noaa": 9.16
             }
         },
         {
             "time": "2026-01-12T07:00:00+00:00",
             "waterTemperature": {
-                "noaa": 11.54
+                "noaa": 14.96
             },
             "waveDirection": {
-                "noaa": 281.3
+                "noaa": 283.3
             },
             "waveHeight": {
-                "noaa": 4.18
+                "noaa": 2.95
             },
             "wavePeriod": {
-                "noaa": 9.97
+                "noaa": 9.52
             }
         },
         {
             "time": "2026-01-12T08:00:00+00:00",
             "waterTemperature": {
-                "noaa": 11.97
+                "noaa": 17.18
             },
             "waveDirection": {
-                "noaa": 280.96
+                "noaa": 281.95
             },
             "waveHeight": {
-                "noaa": 4.35
+                "noaa": 3.74
             },
             "wavePeriod": {
-                "noaa": 10.11
+                "noaa": 9.89
             }
         },
         {
             "time": "2026-01-12T09:00:00+00:00",
             "waterTemperature": {
-                "noaa": 12.4
+                "noaa": 19.4
             },
             "waveDirection": {
                 "noaa": 280.61
@@ -2673,82 +2313,82 @@
         {
             "time": "2026-01-12T10:00:00+00:00",
             "waterTemperature": {
-                "noaa": 12.49
+                "noaa": 19.1
             },
             "waveDirection": {
-                "noaa": 281.18
+                "noaa": 281.68
             },
             "waveHeight": {
-                "noaa": 4.63
+                "noaa": 3.8
             },
             "wavePeriod": {
-                "noaa": 10.31
+                "noaa": 9.87
             }
         },
         {
             "time": "2026-01-12T11:00:00+00:00",
             "waterTemperature": {
-                "noaa": 12.58
+                "noaa": 18.79
             },
             "waveDirection": {
-                "noaa": 281.75
+                "noaa": 282.75
             },
             "waveHeight": {
-                "noaa": 4.73
+                "noaa": 3.08
             },
             "wavePeriod": {
-                "noaa": 10.38
+                "noaa": 9.48
             }
         },
         {
             "time": "2026-01-12T12:00:00+00:00",
             "waterTemperature": {
-                "noaa": 12.67
+                "noaa": 18.48
             },
             "waveDirection": {
-                "noaa": 282.32
+                "noaa": 283.82
             },
             "waveHeight": {
-                "noaa": 4.84
+                "noaa": 2.36
             },
             "wavePeriod": {
-                "noaa": 10.44
+                "noaa": 9.1
             }
         },
         {
             "time": "2026-01-12T13:00:00+00:00",
             "waterTemperature": {
-                "noaa": 12.14
+                "noaa": 16.96
             },
             "waveDirection": {
-                "noaa": 281.87
+                "noaa": 282.87
             },
             "waveHeight": {
-                "noaa": 4.94
+                "noaa": 3.29
             },
             "wavePeriod": {
-                "noaa": 10.57
+                "noaa": 9.68
             }
         },
         {
             "time": "2026-01-12T14:00:00+00:00",
             "waterTemperature": {
-                "noaa": 11.62
+                "noaa": 15.44
             },
             "waveDirection": {
-                "noaa": 281.42
+                "noaa": 281.92
             },
             "waveHeight": {
-                "noaa": 5.04
+                "noaa": 4.21
             },
             "wavePeriod": {
-                "noaa": 10.71
+                "noaa": 10.26
             }
         },
         {
             "time": "2026-01-12T15:00:00+00:00",
             "waterTemperature": {
-                "noaa": 11.1
+                "noaa": 13.91
             },
             "waveDirection": {
                 "noaa": 280.97
@@ -2763,82 +2403,82 @@
         {
             "time": "2026-01-12T16:00:00+00:00",
             "waterTemperature": {
-                "noaa": 10.76
+                "noaa": 13.81
             },
             "waveDirection": {
-                "noaa": 280.46
+                "noaa": 282.48
             },
             "waveHeight": {
-                "noaa": 5.1
+                "noaa": 4.39
             },
             "wavePeriod": {
-                "noaa": 10.91
+                "noaa": 10.25
             }
         },
         {
             "time": "2026-01-12T17:00:00+00:00",
             "waterTemperature": {
-                "noaa": 10.43
+                "noaa": 13.7
             },
             "waveDirection": {
-                "noaa": 279.95
+                "noaa": 284.0
             },
             "waveHeight": {
-                "noaa": 5.07
+                "noaa": 3.65
             },
             "wavePeriod": {
-                "noaa": 10.99
+                "noaa": 9.65
             }
         },
         {
             "time": "2026-01-12T18:00:00+00:00",
             "waterTemperature": {
-                "noaa": 10.09
+                "noaa": 13.6
             },
             "waveDirection": {
-                "noaa": 279.44
+                "noaa": 285.51
             },
             "waveHeight": {
-                "noaa": 5.03
+                "noaa": 2.9
             },
             "wavePeriod": {
-                "noaa": 11.06
+                "noaa": 9.06
             }
         },
         {
             "time": "2026-01-12T19:00:00+00:00",
             "waterTemperature": {
-                "noaa": 10.06
+                "noaa": 13.35
             },
             "waveDirection": {
-                "noaa": 279.08
+                "noaa": 283.12
             },
             "waveHeight": {
-                "noaa": 4.9
+                "noaa": 3.48
             },
             "wavePeriod": {
-                "noaa": 11.09
+                "noaa": 9.76
             }
         },
         {
             "time": "2026-01-12T20:00:00+00:00",
             "waterTemperature": {
-                "noaa": 10.02
+                "noaa": 13.09
             },
             "waveDirection": {
-                "noaa": 278.71
+                "noaa": 280.74
             },
             "waveHeight": {
-                "noaa": 4.77
+                "noaa": 4.06
             },
             "wavePeriod": {
-                "noaa": 11.12
+                "noaa": 10.45
             }
         },
         {
             "time": "2026-01-12T21:00:00+00:00",
             "waterTemperature": {
-                "noaa": 9.99
+                "noaa": 12.84
             },
             "waveDirection": {
                 "noaa": 278.35
@@ -2853,397 +2493,397 @@
         {
             "time": "2026-01-12T22:00:00+00:00",
             "waterTemperature": {
-                "noaa": 9.71
+                "noaa": 12.69
             },
             "waveDirection": {
-                "noaa": 278.85
+                "noaa": 280.66
             },
             "waveHeight": {
-                "noaa": 4.55
+                "noaa": 4.07
             },
             "wavePeriod": {
-                "noaa": 11.16
+                "noaa": 10.62
             }
         },
         {
             "time": "2026-01-12T23:00:00+00:00",
             "waterTemperature": {
-                "noaa": 9.43
+                "noaa": 12.54
             },
             "waveDirection": {
-                "noaa": 279.34
+                "noaa": 282.96
             },
             "waveHeight": {
-                "noaa": 4.47
+                "noaa": 3.5
             },
             "wavePeriod": {
-                "noaa": 11.17
+                "noaa": 10.08
             }
         },
         {
             "time": "2026-01-13T00:00:00+00:00",
             "waterTemperature": {
-                "noaa": 9.16
+                "noaa": 12.39
             },
             "waveDirection": {
-                "noaa": 279.84
+                "noaa": 285.27
             },
             "waveHeight": {
-                "noaa": 4.38
+                "noaa": 2.93
             },
             "wavePeriod": {
-                "noaa": 11.18
+                "noaa": 9.55
             }
         },
         {
             "time": "2026-01-13T01:00:00+00:00",
             "waterTemperature": {
-                "noaa": 9.2
+                "noaa": 12.34
             },
             "waveDirection": {
-                "noaa": 280.4
+                "noaa": 284.74
             },
             "waveHeight": {
-                "noaa": 4.29
+                "noaa": 2.9
             },
             "wavePeriod": {
-                "noaa": 11.15
+                "noaa": 9.58
             }
         },
         {
             "time": "2026-01-13T02:00:00+00:00",
             "waterTemperature": {
-                "noaa": 9.24
+                "noaa": 12.29
             },
             "waveDirection": {
-                "noaa": 280.95
+                "noaa": 284.22
             },
             "waveHeight": {
-                "noaa": 4.2
-            },
-            "wavePeriod": {
-                "noaa": 11.12
-            }
-        },
-        {
-            "time": "2026-01-13T03:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 9.28
-            },
-            "waveDirection": {
-                "noaa": 281.51
-            },
-            "waveHeight": {
-                "noaa": 4.11
-            },
-            "wavePeriod": {
-                "noaa": 11.09
-            }
-        },
-        {
-            "time": "2026-01-13T04:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 9.78
-            },
-            "waveDirection": {
-                "noaa": 281.66
-            },
-            "waveHeight": {
-                "noaa": 3.98
-            },
-            "wavePeriod": {
-                "noaa": 11.02
-            }
-        },
-        {
-            "time": "2026-01-13T05:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 10.29
-            },
-            "waveDirection": {
-                "noaa": 281.81
-            },
-            "waveHeight": {
-                "noaa": 3.86
-            },
-            "wavePeriod": {
-                "noaa": 10.95
-            }
-        },
-        {
-            "time": "2026-01-13T06:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 10.79
-            },
-            "waveDirection": {
-                "noaa": 281.96
-            },
-            "waveHeight": {
-                "noaa": 3.73
-            },
-            "wavePeriod": {
-                "noaa": 10.88
-            }
-        },
-        {
-            "time": "2026-01-13T07:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 11.88
-            },
-            "waveDirection": {
-                "noaa": 283.2
-            },
-            "waveHeight": {
-                "noaa": 3.59
-            },
-            "wavePeriod": {
-                "noaa": 10.74
-            }
-        },
-        {
-            "time": "2026-01-13T08:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 12.96
-            },
-            "waveDirection": {
-                "noaa": 284.43
-            },
-            "waveHeight": {
-                "noaa": 3.45
-            },
-            "wavePeriod": {
-                "noaa": 10.6
-            }
-        },
-        {
-            "time": "2026-01-13T09:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 14.05
-            },
-            "waveDirection": {
-                "noaa": 285.67
-            },
-            "waveHeight": {
-                "noaa": 3.31
-            },
-            "wavePeriod": {
-                "noaa": 10.46
-            }
-        },
-        {
-            "time": "2026-01-13T10:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 14.96
-            },
-            "waveDirection": {
-                "noaa": 285.05
-            },
-            "waveHeight": {
-                "noaa": 3.14
-            },
-            "wavePeriod": {
-                "noaa": 10.34
-            }
-        },
-        {
-            "time": "2026-01-13T11:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 15.87
-            },
-            "waveDirection": {
-                "noaa": 284.43
-            },
-            "waveHeight": {
-                "noaa": 2.97
-            },
-            "wavePeriod": {
-                "noaa": 10.22
-            }
-        },
-        {
-            "time": "2026-01-13T12:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 16.78
-            },
-            "waveDirection": {
-                "noaa": 283.81
-            },
-            "waveHeight": {
-                "noaa": 2.8
-            },
-            "wavePeriod": {
-                "noaa": 10.1
-            }
-        },
-        {
-            "time": "2026-01-13T13:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 14.68
-            },
-            "waveDirection": {
-                "noaa": 284.1
-            },
-            "waveHeight": {
-                "noaa": 2.65
-            },
-            "wavePeriod": {
-                "noaa": 9.98
-            }
-        },
-        {
-            "time": "2026-01-13T14:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 12.59
-            },
-            "waveDirection": {
-                "noaa": 284.39
-            },
-            "waveHeight": {
-                "noaa": 2.5
-            },
-            "wavePeriod": {
-                "noaa": 9.86
-            }
-        },
-        {
-            "time": "2026-01-13T15:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 10.49
-            },
-            "waveDirection": {
-                "noaa": 284.68
-            },
-            "waveHeight": {
-                "noaa": 2.35
-            },
-            "wavePeriod": {
-                "noaa": 9.74
-            }
-        },
-        {
-            "time": "2026-01-13T16:00:00+00:00",
-            "waterTemperature": {
-                "noaa": 10.13
-            },
-            "waveDirection": {
-                "noaa": 284.62
-            },
-            "waveHeight": {
-                "noaa": 2.25
+                "noaa": 2.87
             },
             "wavePeriod": {
                 "noaa": 9.61
             }
         },
         {
-            "time": "2026-01-13T17:00:00+00:00",
+            "time": "2026-01-13T03:00:00+00:00",
             "waterTemperature": {
-                "noaa": 9.77
+                "noaa": 12.24
             },
             "waveDirection": {
-                "noaa": 284.55
+                "noaa": 283.69
             },
             "waveHeight": {
-                "noaa": 2.14
+                "noaa": 2.84
             },
             "wavePeriod": {
-                "noaa": 9.48
+                "noaa": 9.64
+            }
+        },
+        {
+            "time": "2026-01-13T04:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 12.35
+            },
+            "waveDirection": {
+                "noaa": 283.74
+            },
+            "waveHeight": {
+                "noaa": 2.79
+            },
+            "wavePeriod": {
+                "noaa": 9.64
+            }
+        },
+        {
+            "time": "2026-01-13T05:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 12.46
+            },
+            "waveDirection": {
+                "noaa": 283.79
+            },
+            "waveHeight": {
+                "noaa": 2.74
+            },
+            "wavePeriod": {
+                "noaa": 9.64
+            }
+        },
+        {
+            "time": "2026-01-13T06:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 12.57
+            },
+            "waveDirection": {
+                "noaa": 283.84
+            },
+            "waveHeight": {
+                "noaa": 2.69
+            },
+            "wavePeriod": {
+                "noaa": 9.64
+            }
+        },
+        {
+            "time": "2026-01-13T07:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 13.57
+            },
+            "waveDirection": {
+                "noaa": 283.99
+            },
+            "waveHeight": {
+                "noaa": 2.64
+            },
+            "wavePeriod": {
+                "noaa": 9.6
+            }
+        },
+        {
+            "time": "2026-01-13T08:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 14.57
+            },
+            "waveDirection": {
+                "noaa": 284.13
+            },
+            "waveHeight": {
+                "noaa": 2.58
+            },
+            "wavePeriod": {
+                "noaa": 9.55
+            }
+        },
+        {
+            "time": "2026-01-13T09:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 15.57
+            },
+            "waveDirection": {
+                "noaa": 284.28
+            },
+            "waveHeight": {
+                "noaa": 2.53
+            },
+            "wavePeriod": {
+                "noaa": 9.51
+            }
+        },
+        {
+            "time": "2026-01-13T10:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 16.02
+            },
+            "waveDirection": {
+                "noaa": 284.76
+            },
+            "waveHeight": {
+                "noaa": 2.48
+            },
+            "wavePeriod": {
+                "noaa": 9.41
+            }
+        },
+        {
+            "time": "2026-01-13T11:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 16.48
+            },
+            "waveDirection": {
+                "noaa": 285.24
+            },
+            "waveHeight": {
+                "noaa": 2.42
+            },
+            "wavePeriod": {
+                "noaa": 9.32
+            }
+        },
+        {
+            "time": "2026-01-13T12:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 16.93
+            },
+            "waveDirection": {
+                "noaa": 285.72
+            },
+            "waveHeight": {
+                "noaa": 2.37
+            },
+            "wavePeriod": {
+                "noaa": 9.22
+            }
+        },
+        {
+            "time": "2026-01-13T13:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 15.02
+            },
+            "waveDirection": {
+                "noaa": 285.62
+            },
+            "waveHeight": {
+                "noaa": 2.33
+            },
+            "wavePeriod": {
+                "noaa": 9.18
+            }
+        },
+        {
+            "time": "2026-01-13T14:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 13.1
+            },
+            "waveDirection": {
+                "noaa": 285.52
+            },
+            "waveHeight": {
+                "noaa": 2.28
+            },
+            "wavePeriod": {
+                "noaa": 9.13
+            }
+        },
+        {
+            "time": "2026-01-13T15:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 11.19
+            },
+            "waveDirection": {
+                "noaa": 285.42
+            },
+            "waveHeight": {
+                "noaa": 2.24
+            },
+            "wavePeriod": {
+                "noaa": 9.09
+            }
+        },
+        {
+            "time": "2026-01-13T16:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 10.79
+            },
+            "waveDirection": {
+                "noaa": 285.42
+            },
+            "waveHeight": {
+                "noaa": 2.19
+            },
+            "wavePeriod": {
+                "noaa": 9.05
+            }
+        },
+        {
+            "time": "2026-01-13T17:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 10.38
+            },
+            "waveDirection": {
+                "noaa": 285.43
+            },
+            "waveHeight": {
+                "noaa": 2.15
+            },
+            "wavePeriod": {
+                "noaa": 9.0
             }
         },
         {
             "time": "2026-01-13T18:00:00+00:00",
             "waterTemperature": {
-                "noaa": 9.41
+                "noaa": 9.97
             },
             "waveDirection": {
-                "noaa": 284.49
+                "noaa": 285.43
             },
             "waveHeight": {
-                "noaa": 2.04
+                "noaa": 2.1
             },
             "wavePeriod": {
-                "noaa": 9.35
+                "noaa": 8.96
             }
         },
         {
             "time": "2026-01-13T19:00:00+00:00",
             "waterTemperature": {
-                "noaa": 10.15
+                "noaa": 9.83
             },
             "waveDirection": {
-                "noaa": 284.53
+                "noaa": 286.19
             },
             "waveHeight": {
-                "noaa": 1.97
+                "noaa": 2.05
             },
             "wavePeriod": {
-                "noaa": 9.21
+                "noaa": 8.86
             }
         },
         {
             "time": "2026-01-13T20:00:00+00:00",
             "waterTemperature": {
-                "noaa": 10.9
+                "noaa": 9.69
             },
             "waveDirection": {
-                "noaa": 284.58
+                "noaa": 286.94
             },
             "waveHeight": {
-                "noaa": 1.89
+                "noaa": 2.0
             },
             "wavePeriod": {
-                "noaa": 9.07
+                "noaa": 8.76
             }
         },
         {
             "time": "2026-01-13T21:00:00+00:00",
             "waterTemperature": {
-                "noaa": 11.64
+                "noaa": 9.55
             },
             "waveDirection": {
-                "noaa": 284.62
+                "noaa": 287.7
             },
             "waveHeight": {
-                "noaa": 1.82
+                "noaa": 1.95
             },
             "wavePeriod": {
-                "noaa": 8.93
+                "noaa": 8.66
             }
         },
         {
             "time": "2026-01-13T22:00:00+00:00",
             "waterTemperature": {
-                "noaa": 11.83
+                "noaa": 9.59
             },
             "waveDirection": {
-                "noaa": 285.18
+                "noaa": 287.23
             },
             "waveHeight": {
-                "noaa": 1.75
+                "noaa": 1.84
             },
             "wavePeriod": {
-                "noaa": 8.77
+                "noaa": 8.59
             }
         },
         {
             "time": "2026-01-13T23:00:00+00:00",
             "waterTemperature": {
-                "noaa": 12.02
+                "noaa": 9.63
             },
             "waveDirection": {
-                "noaa": 285.74
+                "noaa": 286.77
             },
             "waveHeight": {
-                "noaa": 1.68
+                "noaa": 1.72
             },
             "wavePeriod": {
-                "noaa": 8.62
+                "noaa": 8.53
             }
         },
         {
             "time": "2026-01-14T00:00:00+00:00",
             "waterTemperature": {
-                "noaa": 12.21
+                "noaa": 9.67
             },
             "waveDirection": {
                 "noaa": 286.3
@@ -3258,7 +2898,7 @@
         {
             "time": "2026-01-14T01:00:00+00:00",
             "waterTemperature": {
-                "noaa": 12.16
+                "noaa": 10.14
             },
             "waveDirection": {
                 "noaa": 286.62
@@ -3273,7 +2913,7 @@
         {
             "time": "2026-01-14T02:00:00+00:00",
             "waterTemperature": {
-                "noaa": 12.12
+                "noaa": 10.61
             },
             "waveDirection": {
                 "noaa": 286.94
@@ -3288,7 +2928,7 @@
         {
             "time": "2026-01-14T03:00:00+00:00",
             "waterTemperature": {
-                "noaa": 12.08
+                "noaa": 11.08
             },
             "waveDirection": {
                 "noaa": 287.26
@@ -3303,127 +2943,127 @@
         {
             "time": "2026-01-14T04:00:00+00:00",
             "waterTemperature": {
-                "noaa": 12.48
+                "noaa": 11.51
             },
             "waveDirection": {
-                "noaa": 286.99
+                "noaa": 284.19
             },
             "waveHeight": {
-                "noaa": 1.36
+                "noaa": 1.43
             },
             "wavePeriod": {
-                "noaa": 7.87
+                "noaa": 8.48
             }
         },
         {
             "time": "2026-01-14T05:00:00+00:00",
             "waterTemperature": {
-                "noaa": 12.88
+                "noaa": 11.93
             },
             "waveDirection": {
-                "noaa": 286.72
+                "noaa": 281.11
             },
             "waveHeight": {
-                "noaa": 1.3
+                "noaa": 1.45
             },
             "wavePeriod": {
-                "noaa": 7.75
+                "noaa": 8.98
             }
         },
         {
             "time": "2026-01-14T06:00:00+00:00",
             "waterTemperature": {
-                "noaa": 13.28
+                "noaa": 12.35
             },
             "waveDirection": {
-                "noaa": 286.45
+                "noaa": 278.04
             },
             "waveHeight": {
-                "noaa": 1.24
+                "noaa": 1.46
             },
             "wavePeriod": {
-                "noaa": 7.63
+                "noaa": 9.47
             }
         },
         {
             "time": "2026-01-14T07:00:00+00:00",
             "waterTemperature": {
-                "noaa": 14.94
+                "noaa": 14.83
             },
             "waveDirection": {
-                "noaa": 286.31
+                "noaa": 277.97
             },
             "waveHeight": {
-                "noaa": 1.19
+                "noaa": 1.41
             },
             "wavePeriod": {
-                "noaa": 7.53
+                "noaa": 9.45
             }
         },
         {
             "time": "2026-01-14T08:00:00+00:00",
             "waterTemperature": {
-                "noaa": 16.6
+                "noaa": 17.31
             },
             "waveDirection": {
-                "noaa": 286.17
+                "noaa": 277.9
             },
             "waveHeight": {
-                "noaa": 1.14
+                "noaa": 1.36
             },
             "wavePeriod": {
-                "noaa": 7.43
+                "noaa": 9.43
             }
         },
         {
             "time": "2026-01-14T09:00:00+00:00",
             "waterTemperature": {
-                "noaa": 18.26
+                "noaa": 19.79
             },
             "waveDirection": {
-                "noaa": 286.03
+                "noaa": 277.83
             },
             "waveHeight": {
-                "noaa": 1.09
+                "noaa": 1.31
             },
             "wavePeriod": {
-                "noaa": 7.33
+                "noaa": 9.41
             }
         },
         {
             "time": "2026-01-14T10:00:00+00:00",
             "waterTemperature": {
-                "noaa": 18.08
+                "noaa": 18.29
             },
             "waveDirection": {
-                "noaa": 286.17
+                "noaa": 280.7
             },
             "waveHeight": {
-                "noaa": 1.05
+                "noaa": 1.2
             },
             "wavePeriod": {
-                "noaa": 7.22
+                "noaa": 8.6
             }
         },
         {
             "time": "2026-01-14T11:00:00+00:00",
             "waterTemperature": {
-                "noaa": 17.9
+                "noaa": 16.8
             },
             "waveDirection": {
-                "noaa": 286.31
+                "noaa": 283.58
             },
             "waveHeight": {
-                "noaa": 1.02
+                "noaa": 1.09
             },
             "wavePeriod": {
-                "noaa": 7.1
+                "noaa": 7.8
             }
         },
         {
             "time": "2026-01-14T12:00:00+00:00",
             "waterTemperature": {
-                "noaa": 17.71
+                "noaa": 15.3
             },
             "waveDirection": {
                 "noaa": 286.45
@@ -3438,7 +3078,7 @@
         {
             "time": "2026-01-14T13:00:00+00:00",
             "waterTemperature": {
-                "noaa": 15.94
+                "noaa": 14.5
             },
             "waveDirection": {
                 "noaa": 285.31
@@ -3453,7 +3093,7 @@
         {
             "time": "2026-01-14T14:00:00+00:00",
             "waterTemperature": {
-                "noaa": 14.17
+                "noaa": 13.7
             },
             "waveDirection": {
                 "noaa": 284.18
@@ -3468,7 +3108,7 @@
         {
             "time": "2026-01-14T15:00:00+00:00",
             "waterTemperature": {
-                "noaa": 12.4
+                "noaa": 12.9
             },
             "waveDirection": {
                 "noaa": 283.04
@@ -3483,82 +3123,82 @@
         {
             "time": "2026-01-14T16:00:00+00:00",
             "waterTemperature": {
-                "noaa": 12.02
+                "noaa": 11.99
             },
             "waveDirection": {
-                "noaa": 281.37
+                "noaa": 281.16
             },
             "waveHeight": {
-                "noaa": 0.86
+                "noaa": 0.91
             },
             "wavePeriod": {
-                "noaa": 6.95
+                "noaa": 7.58
             }
         },
         {
             "time": "2026-01-14T17:00:00+00:00",
             "waterTemperature": {
-                "noaa": 11.64
+                "noaa": 11.08
             },
             "waveDirection": {
-                "noaa": 279.7
+                "noaa": 279.29
             },
             "waveHeight": {
-                "noaa": 0.84
+                "noaa": 0.94
             },
             "wavePeriod": {
-                "noaa": 7.01
+                "noaa": 8.27
             }
         },
         {
             "time": "2026-01-14T18:00:00+00:00",
             "waterTemperature": {
-                "noaa": 11.26
+                "noaa": 10.18
             },
             "waveDirection": {
-                "noaa": 278.03
+                "noaa": 277.41
             },
             "waveHeight": {
-                "noaa": 0.81
+                "noaa": 0.96
             },
             "wavePeriod": {
-                "noaa": 7.07
+                "noaa": 8.96
             }
         },
         {
             "time": "2026-01-14T19:00:00+00:00",
             "waterTemperature": {
-                "noaa": 10.96
+                "noaa": 10.63
             },
             "waveDirection": {
-                "noaa": 277.35
+                "noaa": 276.94
             },
             "waveHeight": {
-                "noaa": 0.79
+                "noaa": 0.89
             },
             "wavePeriod": {
-                "noaa": 7.12
+                "noaa": 8.38
             }
         },
         {
             "time": "2026-01-14T20:00:00+00:00",
             "waterTemperature": {
-                "noaa": 10.66
+                "noaa": 11.08
             },
             "waveDirection": {
-                "noaa": 276.68
+                "noaa": 276.47
             },
             "waveHeight": {
-                "noaa": 0.78
+                "noaa": 0.83
             },
             "wavePeriod": {
-                "noaa": 7.17
+                "noaa": 7.8
             }
         },
         {
             "time": "2026-01-14T21:00:00+00:00",
             "waterTemperature": {
-                "noaa": 10.36
+                "noaa": 11.54
             },
             "waveDirection": {
                 "noaa": 276.0
@@ -3573,38 +3213,398 @@
         {
             "time": "2026-01-14T22:00:00+00:00",
             "waterTemperature": {
-                "noaa": 10.11
+                "noaa": 11.54
             },
             "waveDirection": {
-                "noaa": 276.23
+                "noaa": 276.3
             },
             "waveHeight": {
-                "noaa": 0.75
+                "noaa": 0.78
             },
             "wavePeriod": {
-                "noaa": 7.19
+                "noaa": 7.64
             }
         },
         {
             "time": "2026-01-14T23:00:00+00:00",
             "waterTemperature": {
-                "noaa": 9.86
+                "noaa": 11.54
             },
             "waveDirection": {
-                "noaa": 276.47
+                "noaa": 276.59
+            },
+            "waveHeight": {
+                "noaa": 0.8
+            },
+            "wavePeriod": {
+                "noaa": 8.06
+            }
+        },
+        {
+            "time": "2026-01-15T00:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 11.54
+            },
+            "waveDirection": {
+                "noaa": 276.89
+            },
+            "waveHeight": {
+                "noaa": 0.82
+            },
+            "wavePeriod": {
+                "noaa": 8.48
+            }
+        },
+        {
+            "time": "2026-01-15T01:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 11.5
+            },
+            "waveDirection": {
+                "noaa": 277.09
+            },
+            "waveHeight": {
+                "noaa": 0.8
+            },
+            "wavePeriod": {
+                "noaa": 7.97
+            }
+        },
+        {
+            "time": "2026-01-15T02:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 11.46
+            },
+            "waveDirection": {
+                "noaa": 277.29
+            },
+            "waveHeight": {
+                "noaa": 0.79
+            },
+            "wavePeriod": {
+                "noaa": 7.47
+            }
+        },
+        {
+            "time": "2026-01-15T03:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 11.41
+            },
+            "waveDirection": {
+                "noaa": 277.49
+            },
+            "waveHeight": {
+                "noaa": 0.77
+            },
+            "wavePeriod": {
+                "noaa": 6.96
+            }
+        },
+        {
+            "time": "2026-01-15T04:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 11.65
+            },
+            "waveDirection": {
+                "noaa": 277.47
+            },
+            "waveHeight": {
+                "noaa": 0.79
+            },
+            "wavePeriod": {
+                "noaa": 6.92
+            }
+        },
+        {
+            "time": "2026-01-15T05:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 11.89
+            },
+            "waveDirection": {
+                "noaa": 277.46
+            },
+            "waveHeight": {
+                "noaa": 0.81
+            },
+            "wavePeriod": {
+                "noaa": 6.88
+            }
+        },
+        {
+            "time": "2026-01-15T06:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 12.13
+            },
+            "waveDirection": {
+                "noaa": 277.44
+            },
+            "waveHeight": {
+                "noaa": 0.83
+            },
+            "wavePeriod": {
+                "noaa": 6.84
+            }
+        },
+        {
+            "time": "2026-01-15T07:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 13.44
+            },
+            "waveDirection": {
+                "noaa": 277.03
+            },
+            "waveHeight": {
+                "noaa": 0.83
+            },
+            "wavePeriod": {
+                "noaa": 7.14
+            }
+        },
+        {
+            "time": "2026-01-15T08:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 14.75
+            },
+            "waveDirection": {
+                "noaa": 276.61
+            },
+            "waveHeight": {
+                "noaa": 0.82
+            },
+            "wavePeriod": {
+                "noaa": 7.45
+            }
+        },
+        {
+            "time": "2026-01-15T09:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 16.06
+            },
+            "waveDirection": {
+                "noaa": 276.2
+            },
+            "waveHeight": {
+                "noaa": 0.82
+            },
+            "wavePeriod": {
+                "noaa": 7.75
+            }
+        },
+        {
+            "time": "2026-01-15T10:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 16.89
+            },
+            "waveDirection": {
+                "noaa": 276.07
+            },
+            "waveHeight": {
+                "noaa": 0.8
+            },
+            "wavePeriod": {
+                "noaa": 7.61
+            }
+        },
+        {
+            "time": "2026-01-15T11:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 17.72
+            },
+            "waveDirection": {
+                "noaa": 275.95
+            },
+            "waveHeight": {
+                "noaa": 0.79
+            },
+            "wavePeriod": {
+                "noaa": 7.48
+            }
+        },
+        {
+            "time": "2026-01-15T12:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 18.55
+            },
+            "waveDirection": {
+                "noaa": 275.82
+            },
+            "waveHeight": {
+                "noaa": 0.77
+            },
+            "wavePeriod": {
+                "noaa": 7.34
+            }
+        },
+        {
+            "time": "2026-01-15T13:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 16.85
+            },
+            "waveDirection": {
+                "noaa": 276.27
+            },
+            "waveHeight": {
+                "noaa": 0.77
+            },
+            "wavePeriod": {
+                "noaa": 6.96
+            }
+        },
+        {
+            "time": "2026-01-15T14:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 15.15
+            },
+            "waveDirection": {
+                "noaa": 276.72
+            },
+            "waveHeight": {
+                "noaa": 0.77
+            },
+            "wavePeriod": {
+                "noaa": 6.57
+            }
+        },
+        {
+            "time": "2026-01-15T15:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 13.45
+            },
+            "waveDirection": {
+                "noaa": 277.17
+            },
+            "waveHeight": {
+                "noaa": 0.77
+            },
+            "wavePeriod": {
+                "noaa": 6.19
+            }
+        },
+        {
+            "time": "2026-01-15T16:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 12.57
+            },
+            "waveDirection": {
+                "noaa": 277.15
+            },
+            "waveHeight": {
+                "noaa": 0.74
+            },
+            "wavePeriod": {
+                "noaa": 6.26
+            }
+        },
+        {
+            "time": "2026-01-15T17:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 11.69
+            },
+            "waveDirection": {
+                "noaa": 277.12
+            },
+            "waveHeight": {
+                "noaa": 0.7
+            },
+            "wavePeriod": {
+                "noaa": 6.34
+            }
+        },
+        {
+            "time": "2026-01-15T18:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 10.81
+            },
+            "waveDirection": {
+                "noaa": 277.1
+            },
+            "waveHeight": {
+                "noaa": 0.67
+            },
+            "wavePeriod": {
+                "noaa": 6.41
+            }
+        },
+        {
+            "time": "2026-01-15T19:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 10.41
+            },
+            "waveDirection": {
+                "noaa": 278.04
+            },
+            "waveHeight": {
+                "noaa": 0.71
+            },
+            "wavePeriod": {
+                "noaa": 6.18
+            }
+        },
+        {
+            "time": "2026-01-15T20:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 10.01
+            },
+            "waveDirection": {
+                "noaa": 278.97
             },
             "waveHeight": {
                 "noaa": 0.75
             },
             "wavePeriod": {
-                "noaa": 7.16
+                "noaa": 5.95
+            }
+        },
+        {
+            "time": "2026-01-15T21:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 9.61
+            },
+            "waveDirection": {
+                "noaa": 279.91
+            },
+            "waveHeight": {
+                "noaa": 0.79
+            },
+            "wavePeriod": {
+                "noaa": 5.72
+            }
+        },
+        {
+            "time": "2026-01-15T22:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 9.38
+            },
+            "waveDirection": {
+                "noaa": 278.97
+            },
+            "waveHeight": {
+                "noaa": 0.72
+            },
+            "wavePeriod": {
+                "noaa": 5.86
+            }
+        },
+        {
+            "time": "2026-01-15T23:00:00+00:00",
+            "waterTemperature": {
+                "noaa": 9.15
+            },
+            "waveDirection": {
+                "noaa": 278.04
+            },
+            "waveHeight": {
+                "noaa": 0.65
+            },
+            "wavePeriod": {
+                "noaa": 6.01
             }
         }
     ],
     "meta": {
         "cost": 1,
         "dailyQuota": 10,
-        "end": "2026-01-14 23:00",
+        "end": "2026-01-15 23:00",
         "lat": 32.3775275,
         "lng": 34.8629629,
         "params": [
@@ -3613,10 +3613,10 @@
             "wavePeriod",
             "waterTemperature"
         ],
-        "requestCount": 2,
+        "requestCount": 3,
         "source": [
             "noaa"
         ],
-        "start": "2026-01-05 00:00"
+        "start": "2026-01-06 00:00"
     }
 }

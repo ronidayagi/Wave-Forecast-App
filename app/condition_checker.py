@@ -33,7 +33,7 @@ def format_conditions_message(good_hours: list, location_name: str) -> str:
         return "No good conditions found."
 
     message = f"🏄‍♂️ Good Surf Conditions at {location_name}!\n\n"
-    message += f"Found {len(good_hours)} good hours today:\n\n"
+    message += f"Found {len(good_hours)} good hours tomorrow:\n\n"
 
     for hour in good_hours:
         time = datetime.fromisoformat(hour["time"]).strftime("%I:%M %p")

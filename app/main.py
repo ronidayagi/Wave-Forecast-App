@@ -16,9 +16,9 @@ app.state.forecast = None
 async def lifespan(app: FastAPI):
     # Startup code
     print("Fetching initial forecast...")
-    await update_forecast(app.state.place)  # Run initial fetch
+    #await update_forecast(app.state.place)  # Run initial fetch
 
-    #start_scheduler()  # This one for notifications
+    start_scheduler()  # This one for notifications
     #print("Scheduler started")
     yield
     # Optional shutdown code
