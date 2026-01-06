@@ -1,10 +1,14 @@
-from datetime import datetime
+from datetime import datetime, timedelta
 
 def check_conditions(forecast_data, location_config):
+    tomorrow_date = (datetime.now() + timedelta(days=1)).date()
 
-    # Filter to daylight hours
-    daylight_hours = [hour for hour in forecast_data["hours"] if 6 <= datetime.fromisoformat(hour["time"]).hour <= 15 ]
-
+    # Filter to tomorrow's daylight hours only
+    daylight_hours = [
+        hour for hour in forecast_data["hours"]
+        if 6 <= datetime.fromisoformat(hour["time"]).hour <= 15
+           and datetime.fromisoformat(hour["time"]).date() == tomorrow_date
+    ]
     # Get user's conditions
     conditions = location_config["conditions"]
     wave_height_min = conditions["wave_height_min"]

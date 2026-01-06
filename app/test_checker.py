@@ -1,5 +1,5 @@
 import json
-from datetime import datetime
+from datetime import datetime, timedelta
 from app.condition_checker import check_conditions, format_conditions_message
 
 with open("Israel, beit yanai.json", "r") as f:
@@ -8,10 +8,10 @@ with open("Israel, beit yanai.json", "r") as f:
 location_config = {
     "name": "Beit Yanai",
     "conditions": {
-        "wave_height_min": 0.3,  # Lower so we find some matches
+        "wave_height_min": 0.25,  # Lower so we find some matches
         "wave_height_max": 2.5,
-        "wave_direction_min": 50,  # Wider range for testing
-        "wave_direction_max": 150
+        "wave_direction_min": 250,  # Wider range for testing
+        "wave_direction_max": 340
     }
 }
 
