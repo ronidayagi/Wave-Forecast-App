@@ -7,6 +7,8 @@
         {
             "name": "Beit Yanai",
             "place": "Israel, beit yanai",
+            "lat": 32.3775275,
+            "lon": 34.8629629,
             "conditions": {
                 "wave_height_min": 0.25,
                 "wave_height_max": 1.5,

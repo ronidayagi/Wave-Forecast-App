@@ -30,9 +30,9 @@ async def check_and_notify():
     user_email = get_user_email()
 
     for location in locations:
-        place = location["place"]
-
-        forecast = await update_forecast(place)
+        lat = location["lat"]
+        lon = location["lon"]
+        forecast = await get_forecast(lat, lon)
 
         good_hours = check_conditions(forecast, location)
 
