@@ -50,8 +50,8 @@ def start_scheduler():
     """Start the scheduler to check conditions periodically"""
     scheduler = BackgroundScheduler()
 
-    # Run every 6 hours
-    scheduler.add_job(run_async_job, 'interval', hours=6)
+    # Run daily at 6am
+    scheduler.add_job(run_async_job, 'cron', hour=6, minute=0)
 
     # Also run immediately on start
     scheduler.add_job(run_async_job, 'date', run_date=datetime.datetime.now())

@@ -4,7 +4,7 @@ venv\Scripts\activate   # Windows
 source venv/bin/activate   # macOS/Linux
 
 # Run your API
-uvicorn app.main:app --reload
+uvicorn main:app --reload
 
 
  setx STORMGLASS_API_KEY
