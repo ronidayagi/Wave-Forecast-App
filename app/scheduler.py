@@ -54,8 +54,8 @@ def start_scheduler():
     scheduler.add_job(run_async_job, 'cron', hour=6, minute=0)
 
     # Also run immediately on start
-    scheduler.add_job(run_async_job, 'date', run_date=datetime.datetime.now())
+    #scheduler.add_job(run_async_job, 'date', run_date=datetime.datetime.now())
 
     scheduler.start()
-    print("📅 Scheduler started - checking every 6 hours")
+    print("📅 Scheduler started - checking daily at 6am")
 
